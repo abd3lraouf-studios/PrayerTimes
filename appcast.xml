@@ -133,6 +133,21 @@
       length="24235835"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 4.5.1</title>
+    <sparkle:version>85</sparkle:version>
+    <sparkle:shortVersionString>4.5.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Sat, 12 Sep 2026 04:09:58 +0000</pubDate>
+    <description><![CDATA[<ul><li>Refreshed the three App Store locales with six curated screenshots, including full check-in states and authentic color variants.</li><li>Updated the website with localized interactive check-in and appearance previews.</li><li>Kept curated screenshots safe from accidental replacement by the legacy renderer.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v4.5.1/PrayerTimes-4.5.1.zip"
+      sparkle:version="85"
+      sparkle:shortVersionString="4.5.1"
+      sparkle:edSignature="IP5rTnnd6mL1Kr4uK06HiN6pvpy2CTutJ0xjzO2VLCDqHk+/1MB6D+zmxkF8njmM8o9l7c/VmTcYiDkKuaaMAw=="
+      length="24237579"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
