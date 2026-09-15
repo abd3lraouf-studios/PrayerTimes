@@ -161,6 +161,21 @@
       length="109066815"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 4.7.0</title>
+    <sparkle:version>87</sparkle:version>
+    <sparkle:shortVersionString>4.7.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Tue, 15 Sep 2026 17:42:02 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Nine new iqamah recordings (Pro):</strong> Mustafa Ismail, Mahmoud Khalil Al-Husary, Farouk Hadrawi, Al-Masjid an-Nabawi, Omair Shamim, Suhail Al-Zinati, Mohamed Abu Gabal, Abdul Rahman Sobhy and Ahmet Recep Koç, cut and loudness-matched by `scripts/iqamah/trim-iqamah.py`, which records each source</li><li><strong>Named for the reciter.</strong> `iqamah-al-haram` and `iqamah-qad-qamat` were both Mishary Alafasy and are renamed; `IqamahSound(stored:)` keeps a choice saved under the old names. Yasser Al-Dosari leads the picker; the short Mishary call is the only free iqamah sound</li><li><strong>Selection hints</strong> with an info icon in Settings and onboarding for the short fragment, the Hanafi form, the Haram and Nabawi styles and Same as Adhan, in five languages</li><li><strong>Pro-state fixes:</strong> Pro Simulation off after locked re-signs a legacy grant (Pro picks read back as the free default until relaunch); the ambient display no longer reads the entitlement mirror before it is written and draws the Pro scene</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v4.7.0/PrayerTimes-4.7.0.zip"
+      sparkle:version="87"
+      sparkle:shortVersionString="4.7.0"
+      sparkle:edSignature="OMeyuKDS6v8Ruv3VSLEt8SLeS3InUXgwz8s39uxpufx3wKCQbNnpteZkWYRKcJR0cejf9eR+Adlnhn4pgpvLCg=="
+      length="127948647"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
