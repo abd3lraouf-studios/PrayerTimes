@@ -147,6 +147,21 @@
       length="24237579"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 4.6.0</title>
+    <sparkle:version>86</sparkle:version>
+    <sparkle:shortVersionString>4.6.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Tue, 15 Sep 2026 15:09:38 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Setup guide redesign.</strong> One dark stage with a live MacBook that simulates each step — a Maps window with your location, the real popover (following the chosen appearance, accent and scene), the real streak, Qibla and calendar screens, and a live, answerable check-in card. Google Flow illustrations where a screen cannot carry the subject; no graphic on pure settings steps. Baked flag badges, text that scrambles into the chosen language without replaying the flow, blur-in entrances, and a DEBUG step rail</li><li><strong>One material app-wide.</strong> `MetalButtonStyle` (satin metal with grain, sheen and contrast-picked ink) and `GrainSurface` cards across onboarding, Settings, the popover footer, Streak, Qibla and the calendar; Pro is gold everywhere it is sold</li><li><strong>Contextual Pro offer.</strong> A running feature gallery; the Settings drawer and popover upgrade page open on the feature that raised them, with the rest of Pro below; an Apple-style purchase section (one price on the button, visible Restore, Terms and Privacy); Scenes gated as a whole section under a glowing premium frame</li><li><strong>Calendar, Qibla and hero.</strong> Larger calendar type, a Friday band, an animated today marker and a painted banner; a real Qibla empty state; a Hidden hero size; a contrast-safe accent countdown</li><li><strong>Full-screen alert.</strong> Only reachable "Remind me in" options, in metal over frosted glass; rolling countdown digits; the simulator now covers every lead and moves the menu bar with it</li><li><strong>Menu bar.</strong> The near-prayer colour is the accent, lifted for contrast against the actual bar and swept as metal; the icon follows it</li><li><strong>No bells.</strong> Natural recorded UI sounds (water drop, rustling leaves) replace the system chimes, with a test that rejects system sounds in app code</li><li>Donation sheet rebranded as Abdelraouf Studios; `scripts/brand/bake-donation-kit.py` bakes the in-app medallions and the Polar product covers</li><li>Font Awesome icon set, cannon smoke that varies shot to shot, accent swatch ring fixed</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v4.6.0/PrayerTimes-4.6.0.zip"
+      sparkle:version="86"
+      sparkle:shortVersionString="4.6.0"
+      sparkle:edSignature="OId9GAbK8+IT7HKngmczF0BLkdLiLk9WymXIpaXF/Vz2UTqkTJfD5bAQk8ppvsffiWtK8v1NqiitxW9wy9c2CQ=="
+      length="109066815"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
