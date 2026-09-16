@@ -175,6 +175,21 @@
       length="127948647"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 4.8.0</title>
+    <sparkle:version>88</sparkle:version>
+    <sparkle:shortVersionString>4.8.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 16 Sep 2026 04:04:10 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>The guide re-opens on what an update added.</strong> A `whats_new.json` release may name guide pages in a `"tour"` array; the first launch after that update opens them once, after the highlights sheet closes, and only for the releases that install actually crossed. Hooked to the window closing, so Esc and ⌘W count too</li><li><strong>App Store set regenerated</strong> for 4.7.0's iqamah voices: a Flow-rendered MacBook with the real full-screen card keyed into its screen (`scripts/marketing/green-screen.py` finds the screen corners itself), three painted medallions, and recaptured colour fans and check-in states</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v4.8.0/PrayerTimes-4.8.0.zip"
+      sparkle:version="88"
+      sparkle:shortVersionString="4.8.0"
+      sparkle:edSignature="B0ycVtwZWHuPqMCXssaVOvymebDrNJ9GcM6/6RMpJSErHXkN9hnLPyZT6x6MwEIvLCgyCVZklqJe+ar8sZo4AA=="
+      length="127951010"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
