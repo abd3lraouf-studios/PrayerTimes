@@ -189,6 +189,21 @@
       length="127951010"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 4.9.0</title>
+    <sparkle:version>91</sparkle:version>
+    <sparkle:shortVersionString>4.9.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Fri, 18 Sep 2026 08:28:30 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Menu-bar pills (Pro).</strong> Fourteen styles from the *Menu Bar Gallery* design — Gilded, Aurora, Liquid, Lantern, Glass, Ring, Lightbar, Type, Split, Dot, Neon, Sun Path, Skyline, Island — each drawing nine states (quiet → approaching → near → imminent → adhan→iqamah → iqamah → logged, and not prayed → window ending) resolved by one pure `MenuBarPillResolver`; Jumuʻah on Friday, Iftar/Suhoor while fasting, a missed-prayer badge, film grain on painted fills, a blur crossfade on every state change, static forms under Reduce Motion, the Animate switch and Quiet Hours. Hosted inside the status button (`setCustomContent`), with its own open state in place of the system highlight. Classic stays free</li><li><strong>Settings ▸ Menu Bar.</strong> Its own pane: a live strip stepping through the states, a Preview menu to pin one, and a gallery of fifteen cards on real menu-bar strips; Menu Bar Style / Minimal / Always Show Icon moved here from Appearance</li><li><strong>Onboarding.</strong> A menu-bar step after Appearance — Classic and all fourteen Pro styles with per-card blur-in, the MacBook camera zooming the whole mockup onto its menu bar (Complete too, now on the same pose so the item clears the notch); the guide follows light and dark appearance</li><li><strong>State-aware Home hero.</strong> Eyebrow, name, figure and caption follow the pill's states: time to iqamah, "Now", logged ✓ with the countdown to the next prayer, time left to pray</li><li><strong>Isha end by madhab</strong> (`IshaEndRule`: first third / Islamic midnight, following the Asr madhab until chosen) and an <strong>After Isha, Count Down To</strong> option (`AfterIshaCountdown`)</li><li><strong>Fixes.</strong> Settings opens above the popover it previews; the location survives a locationd grant reset; one sound preview at a time; audition play marks optically centred</li><li>Tooling: `scripts/pbx-add-sources.py`; four Font Awesome glyphs (mosque, kaaba, snowflake, exclamation); Pro gallery Menu Bar slide</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v4.9.0/PrayerTimes-4.9.0.zip"
+      sparkle:version="91"
+      sparkle:shortVersionString="4.9.0"
+      sparkle:edSignature="2vCO6Z8i22q9kkgrinKx7FjJSvVOmRpikfGmY3ULjuA/I2fQegyYAXLP90frGH9AyjIKGUOOTBWnpAddcvjHDw=="
+      length="129208788"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
