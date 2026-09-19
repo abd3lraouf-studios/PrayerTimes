@@ -217,6 +217,21 @@
       length="130000929"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 4.10.0</title>
+    <sparkle:version>94</sparkle:version>
+    <sparkle:shortVersionString>4.10.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Sat, 19 Sep 2026 20:09:05 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Calm during calls.</strong> While the microphone is in use, prayer moments arrive as a quiet banner instead of a full-screen card and an adhan</li><li><strong>Full-screen alert.</strong> "I prayed" and snooze on the at-time card; Mute / Unmute with a live waveform read from the clip itself; a 1 s input grace and no click-anywhere close; Reopen Prayer Alert in the status menu for a minute after closing; opens on the display under the pointer and returns focus afterwards; a snoozed card names the minutes actually left; the banner and the card act as one moment</li><li><strong>Fewer takeovers.</strong> The pre-prayer announcement no longer opens a second card by default</li><li><strong>Home.</strong> Tomorrow's times after Isha (opt-in, Settings ▸ Prayer Times ▸ Display); iqamah time beside each prayer; hover details; right-click menu; ⌘C copies the day's times; keys 1–5 mark prayers; Undo for an un-mark restores its original time; a Now Playing strip with Stop; honest empty states when there are no times; the misleading daily "day was cleared" banner is gone; Quit needs a second click</li><li><strong>Status menu.</strong> Mark the open prayer as prayed, and Refresh while there are no times</li><li><strong>Settings.</strong> Reorganized into Notifications, Sounds and Prayer Log panes; General ▸ Privacy holds both telemetry switches; search matches every word and common spellings; method pickers lead with Automatic and the region's recommendation, with each method's angles; "Twilight Angle" correctly named; the map picker names the place under the crosshair; Export/Reset stay usable with tracking off; Time Correction's Reset All asks first</li><li><strong>Onboarding.</strong> Setup ends at Complete, with the tour as an opt-in button; skipping ahead still asks for notification permission; the manual-city map no longer prompts for location</li><li><strong>Privacy.</strong> Turning off crash reports applies immediately</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v4.10.0/PrayerTimes-4.10.0.zip"
+      sparkle:version="94"
+      sparkle:shortVersionString="4.10.0"
+      sparkle:edSignature="KOig4aVP+AlwvDut/DYrQUSRCC3Gs7HC+JwCewI7nNxwq88+iOo43sevyvhiM7oGcI00aD8wFtBQyuxzixTMCA=="
+      length="130195190"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
