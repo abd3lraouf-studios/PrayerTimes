@@ -203,6 +203,21 @@
       length="129208788"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 4.9.1</title>
+    <sparkle:version>93</sparkle:version>
+    <sparkle:shortVersionString>4.9.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Sat, 19 Sep 2026 08:51:31 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Licence activation fixed.</strong> Activating a licence key works reliably again</li><li><strong>Licence key card.</strong> The field takes typing again and shows your key in its groups as you type; if activation cannot finish, the card says why, with a reference you can copy or send to support</li><li><strong>Your Macs.</strong> See every Mac your licence is active on, and remove one to free its place for another</li><li><strong>Unlock celebration.</strong> Unlocking Pro now ends in a short celebration</li><li><strong>Performance.</strong> The Pro page in Settings no longer keeps your Mac busy while it is open</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v4.9.1/PrayerTimes-4.9.1.zip"
+      sparkle:version="93"
+      sparkle:shortVersionString="4.9.1"
+      sparkle:edSignature="1VVj3S7Tc593jWyFfBtJRQSt+ZOvU+40IyiDgXwyeQxtWsKczw7tfs08UsCPa0iF0tanTXandnV+KYN3oUsrCA=="
+      length="130000929"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
