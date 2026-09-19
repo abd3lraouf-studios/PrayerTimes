@@ -52,7 +52,20 @@
 - **Private by default** — no accounts, and nothing that follows you across apps or the web. Prayer times are calculated on your Mac, and your precise location is never transmitted. Anonymous diagnostics can be switched off under Settings → General → Diagnostics.
 - **Designed for the menu bar** — always visible, never in the way. Countdown, exact time, compact, or icon-only.
 - **Accurate worldwide** — 26 calculation methods, per-prayer adjustments, custom angles.
-- **Offline-first** — calculations happen on-device. Network is only used for optional location search.
+- **Offline-first** — prayer times are calculated on your Mac, so they keep working without a connection.
+
+## A closer look
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/en/07-menubar.jpg" alt="New in 4.9 — fourteen menu bar styles that show the adhan, the iqamah and a prayer still waiting."><br><sub><b>New in 4.9</b> — fourteen menu bar styles that show the adhan, the iqamah and a prayer still waiting.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/03-themes.jpg" alt="Six accent colours, in light and dark."><br><sub>Six accent colours, in light and dark.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/en/05-checkin.jpg" alt="A gentle check-in asks whether you have prayed."><br><sub>A gentle check-in asks whether you have prayed.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/02-adhan-hero.jpg" alt="230 adhan recordings from 28 countries."><br><sub>230 adhan recordings from 28 countries.</sub></td>
+</tr>
+</table>
 
 ## Install
 
@@ -75,6 +88,11 @@ PrayerTimes Pro ships on two channels. Same app, same price — take whichever s
 
 - Menu bar **countdown**, exact time, compact, or icon-only display
 - **Notifications** before and at prayer time, with optional full-screen alerts
+- **Fourteen menu bar styles** that show the adhan, the iqamah and a prayer still waiting at a glance — the classic menu bar stays free
+- **Iqamah alert** — the iqamah plays a set number of minutes after the adhan, per prayer: a short "Qad qāmatis-ṣalāh" or a full iqamah from fifteen recordings
+- **Prayer check-in** — a gentle window asks whether you have prayed, and asks again while the prayer is still open
+- **Salawat reminder** — a recited "Allahumma salli ʿala Muhammad" at the interval you choose, silent during your quiet hours
+- **Four painted skies** behind every prayer, and a calm full-screen clock for a spare display
 - **26 calculation methods**: Muslim World League (MWL), ISNA, Egyptian General Authority, Umm al-Qura (Makkah), Diyanet (Turkey), Kemenag (Indonesia), Karachi, Tehran, Dubai, Qatar, Singapore, Kuwait, Algeria, France, Germany, Malaysia (JAKIM), and more
 - **Auto or manual location** · per-prayer time adjustments to match your local mosque
 - **Hijri calendar** with adjustable date and Islamic event notifications (Ramadan, Eid al-Fitr, Eid al-Adha, Islamic New Year, Day of Ashura, and more)
@@ -96,10 +114,12 @@ PrayerTimes Pro ships on two channels. Same app, same price — take whichever s
 
 PrayerTimes Pro is free to download on either channel, and the heart of it stays free for good: the menu bar countdown, every one of the 26 calculation methods, per-prayer adjustments, notifications, full-screen alerts and the adhan itself, the Hijri calendar and its event reminders, Ramadan mode, the Qibla compass, marking each prayer as you pray it, the Siri and Shortcuts action, and both light and dark themes. That is a complete prayer times app, and it costs nothing.
 
+The prayer check-in, the Salawat reminder, a short iqamah after each prayer and the classic menu bar are free too.
+
 A **$4.99 one-time Pro unlock** adds three things:
 
-- **The living sky** — an animated scene behind the countdown, the sun’s path across the day, the Ramadan cannon, and every accent colour.
-- **Every adhan reciter** — the full library recorded across 28 countries, a separate call for Fajr, and the spoken pre-prayer announcement voice.
+- **The living sky** — an animated sky behind the countdown across four painted scenes, the sun’s path across the day, the Ramadan cannon, fourteen menu bar styles, a calm full-screen clock for a spare display, and every accent colour.
+- **Every adhan and iqamah reciter** — the full adhan library recorded across 28 countries, a separate call for Fajr, every iqamah recording, and the spoken pre-prayer announcement voice.
 - **Streaks and qada** — the streak calendar and your records, the Sunnah checklist, and the make-up ledger.
 
 One payment, no subscription, no account. Bought on the App Store it stays with your Apple Account; bought for the direct build it stays with your licence key.
@@ -140,15 +160,6 @@ PrayerTimes Pro keeps accurate prayer times a glance away in the macOS menu bar,
 The press kit — icons, screen art, boilerplate, the fact sheet and a downloadable
 archive — is at **[abd3lraouf.dev/press/prayertimes/](https://abd3lraouf.dev/press/prayertimes/)**.
 <!-- END abd3lraouf-studios:press -->
-
-## Credits
-
-Built on top of these excellent projects:
-
-- [Adhan](https://github.com/batoulapps/Adhan) — prayer time calculation
-- [FluidMenuBarExtra](https://github.com/lfroms/fluid-menu-bar-extra) — menu bar UI
-- [NavigationStack](https://github.com/indieSoftware/NavigationStack) — navigation
-- Inspired by [Sajda](https://github.com/ikoshura/Sajda)
 
 ## License
 

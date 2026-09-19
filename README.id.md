@@ -52,7 +52,20 @@
 - **Privat secara bawaan** — tanpa akun, dan tanpa apa pun yang mengikuti Anda lintas aplikasi atau web. Waktu salat dihitung di Mac Anda, dan lokasi presisi Anda tidak pernah dikirim. Diagnostik anonim dapat dimatikan di Pengaturan → Umum → Diagnostik.
 - **Dirancang untuk menu bar** — selalu terlihat, tidak pernah mengganggu. Hitung mundur, waktu pasti, ringkas, atau hanya ikon.
 - **Akurat di seluruh dunia** — 26 metode perhitungan, penyesuaian per shalat, sudut khusus.
-- **Offline-first** — perhitungan terjadi di perangkat. Jaringan hanya digunakan untuk pencarian lokasi opsional.
+- **Offline-first** — waktu shalat dihitung di Mac Anda, jadi tetap berfungsi tanpa koneksi.
+
+## Lebih dekat
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/id/07-menubar.jpg" alt="Baru di 4.9 — empat belas gaya menu bar yang menampilkan adzan, iqamah, dan shalat yang belum dicatat."><br><sub><b>Baru di 4.9</b> — empat belas gaya menu bar yang menampilkan adzan, iqamah, dan shalat yang belum dicatat.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/id/03-themes.jpg" alt="Enam warna aksen, dalam mode terang dan gelap."><br><sub>Enam warna aksen, dalam mode terang dan gelap.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/id/05-checkin.jpg" alt="Jendela yang lembut menanyakan apakah Anda sudah shalat."><br><sub>Jendela yang lembut menanyakan apakah Anda sudah shalat.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/id/02-adhan-hero.jpg" alt="230 rekaman adzan dari 28 negara."><br><sub>230 rekaman adzan dari 28 negara.</sub></td>
+</tr>
+</table>
 
 ## Instalasi
 
@@ -75,6 +88,11 @@ PrayerTimes Pro hadir lewat dua kanal. Aplikasi yang sama dengan harga yang sama
 
 - **Hitung mundur** di menu bar, waktu pasti, tampilan ringkas, atau hanya ikon
 - **Notifikasi** sebelum dan saat waktu shalat, dengan opsi peringatan layar penuh
+- **Empat belas gaya menu bar** yang menampilkan adzan, iqamah, dan shalat yang belum dicatat dalam sekejap — menu bar klasik tetap gratis
+- **Pengingat iqamah** — iqamah diputar beberapa menit setelah adzan, sesuai pilihan Anda untuk setiap shalat: "Qad qāmatis-ṣalāh" singkat atau iqamah lengkap dari lima belas rekaman
+- **Check-in shalat** — jendela yang lembut menanyakan apakah Anda sudah shalat, dan bertanya lagi selama waktu shalat masih ada
+- **Pengingat shalawat** — "Allahumma shalli 'ala Muhammad" yang dilantunkan pada selang waktu pilihan Anda, dan diam selama jam tenang
+- **Empat langit lukisan** di balik setiap shalat, dan jam layar penuh yang tenang untuk layar cadangan
 - **26 metode perhitungan**: Muslim World League (MWL), ISNA, Otoritas Umum Mesir, Umm al-Qura (Makkah), Diyanet (Turki), Kemenag (Indonesia), Karachi, Tehran, Dubai, Qatar, Singapura, Kuwait, Aljazair, Prancis, Jerman, Malaysia (JAKIM), dan lainnya
 - **Lokasi otomatis atau manual** · penyesuaian waktu per shalat untuk menyesuaikan masjid setempat
 - **Kalender Hijriah** dengan tanggal yang dapat disesuaikan dan notifikasi peristiwa Islam (Ramadan, Idul Fitri, Idul Adha, Tahun Baru Hijriah, Hari Asyura, dan lainnya)
@@ -96,10 +114,12 @@ PrayerTimes Pro hadir lewat dua kanal. Aplikasi yang sama dengan harga yang sama
 
 PrayerTimes Pro gratis diunduh lewat kanal mana pun, dan inti aplikasinya tetap gratis selamanya: hitung mundur di menu bar, seluruh 26 metode perhitungan, penyesuaian per shalat, notifikasi, peringatan layar penuh, dan adzannya sendiri, kalender Hijriah beserta pengingat peristiwanya, mode Ramadan, kompas kiblat, menandai setiap shalat saat Anda menunaikannya, aksi Siri dan Pintasan, serta tema terang dan gelap. Itu sudah aplikasi waktu shalat yang lengkap, dan tidak memungut biaya apa pun.
 
+Check-in shalat, pengingat shalawat, iqamah singkat setelah setiap shalat, dan menu bar klasik juga gratis.
+
 **Buka Pro sekali bayar seharga $4,99** menambahkan tiga hal:
 
-- **Langit yang hidup** — pemandangan beranimasi di balik hitung mundur, busur lintasan matahari sepanjang hari, meriam Ramadan, dan seluruh warna aksen.
-- **Seluruh muazin** — pustaka lengkap yang direkam di 28 negara, adzan Subuh terpisah, dan suara pengumuman lisan sebelum shalat.
+- **Langit yang hidup** — langit beranimasi di balik hitung mundur dalam empat pemandangan lukisan, busur lintasan matahari sepanjang hari, meriam Ramadan, empat belas gaya menu bar, jam layar penuh yang tenang untuk layar cadangan, dan seluruh warna aksen.
+- **Seluruh muazin dan iqamah** — pustaka adzan lengkap yang direkam di 28 negara, adzan Subuh terpisah, seluruh rekaman iqamah, dan suara pengumuman lisan sebelum shalat.
 - **Rentetan dan qada** — kalender rentetan beserta catatannya, daftar sunnah, dan buku qada.
 
 Sekali bayar, tanpa langganan, tanpa akun. Dibeli di App Store, ia melekat pada Akun Apple Anda; dibeli untuk versi langsung, ia melekat pada kunci lisensi Anda.
@@ -130,14 +150,9 @@ PrayerTimes Pro dibuat dan dirawat oleh satu pengembang di waktu luangnya. Jika 
 
 Setiap kontribusi — sekecil apa pun — membantu menjaga aplikasi tetap aktif dikembangkan dan bebas iklan, pelacak, serta akun.
 
-## Kredit
+## Materi pers & pemasaran
 
-Dibangun di atas proyek-proyek hebat ini:
-
-- [Adhan](https://github.com/batoulapps/Adhan) — perhitungan waktu shalat
-- [FluidMenuBarExtra](https://github.com/lfroms/fluid-menu-bar-extra) — UI menu bar
-- [NavigationStack](https://github.com/indieSoftware/NavigationStack) — navigasi
-- Terinspirasi oleh [Sajda](https://github.com/ikoshura/Sajda)
+Kit pers — ikon, gambar layar, teks deskripsi, lembar fakta, dan arsip yang dapat diunduh — tersedia di **[abd3lraouf.dev/press/prayertimes/](https://abd3lraouf.dev/press/prayertimes/)**.
 
 ## Lisensi
 
