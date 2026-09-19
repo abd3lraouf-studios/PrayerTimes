@@ -203,20 +203,6 @@
       length="129208788"
       type="application/octet-stream" />
   </item>
-    <item>
-    <title>Version 4.9.1</title>
-    <sparkle:version>92</sparkle:version>
-    <sparkle:shortVersionString>4.9.1</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-    <pubDate>Sat, 19 Sep 2026 08:06:58 +0000</pubDate>
-    <description><![CDATA[<ul><li><strong>Licence key card fixed.</strong> The field takes typing again; the key is drawn with dashes between groups and the group being typed lit; the progress line runs left→right in every language and is clipped to the field's rounded corners; three layout bugs on the card</li><li><strong>Licence v2.</strong> Every licence decision moved to the Worker's `/v2` routes (Secure Enclave device key, signed verdicts); a full licence can be managed and this Mac reuses its own seat; the seat manager (last-seen, inactive tag, per-row removal); failures stay in the card with a copyable reference code; Debug licence simulator</li><li><strong>Unlock celebration.</strong> Rows arrive on the handoff's beats, it stands ~5 s, and plays `ui-pro-unlocked` (swoosh + birdsong, `scripts/ui-sounds/make-unlock-sound.sh`)</li><li><strong>Performance.</strong> Only the Pro gallery's progress line ticks; the Pro pane no longer idles at 80–100% of a core</li><li>Tooling: `build-release.sh` folded into `./build.sh --signed`; `build.sh` quits an installed copy by bundle id</li></ul>]]></description>
-    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v4.9.1/PrayerTimes-4.9.1.zip"
-      sparkle:version="92"
-      sparkle:shortVersionString="4.9.1"
-      sparkle:edSignature="Ja3+Bg/vO+JY8uVI/3JS0v3MakDy/0Gjia4UjQtbfmAFu8jsiGrRT0AW/GNK99QS4W+Kek2FCiLEqohOFU2dAQ=="
-      length="129979997"
-      type="application/octet-stream" />
-  </item>
 
 
 
