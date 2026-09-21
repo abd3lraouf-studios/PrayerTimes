@@ -259,6 +259,21 @@
       length="130211561"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 4.10.3</title>
+    <sparkle:version>97</sparkle:version>
+    <sparkle:shortVersionString>4.10.3</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Mon, 21 Sep 2026 11:02:20 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Scene hang (Sentry PRAYERTIMES-3).</strong> `SceneBackdrop` drew the 4K plate straight into the CPU-rendered scene `Canvas` every frame, re-reading and resampling ~33 MB of lazily decoded pixels on the main thread (hero 6.3 ms/frame, full-screen 20.1 ms — over budget at 60 fps). Plates are now decoded, cover-cropped and scaled once per canvas pixel size and blitted 1:1 (0.34 ms / 2.8 ms); the cache is bounded by bytes and falls back to the source during a burst of size changes.</li><li><strong>What's New history.</strong> The sheet pages back through every earlier release (`ReleaseHighlights.pages`), newest first, never past the installed version.</li><li><strong>Cumulative App Store notes.</strong> `scripts/appstore-release-notes.py` writes the three locales from `whats_new.json` since the live App Store version; highlights can be marked `"channels": ["direct"]`; pre-flight checks it.</li><li><strong>Live price follow-ups.</strong> A paywall appearing re-reads a price that could not be read; `/v2/price` quotes the checkout currency, backs off Polar after a failure and rate-limits only cache misses.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v4.10.3/PrayerTimes-4.10.3.zip"
+      sparkle:version="97"
+      sparkle:shortVersionString="4.10.3"
+      sparkle:edSignature="jlQD2f+wsEMHj60hnMy6v+Z4VrC8bmFW0L6vaFTCHrR9wwxEa66kakvSa6wSLCS2FsBIXjK8fA3Lg5QxgIJjCA=="
+      length="130250118"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
