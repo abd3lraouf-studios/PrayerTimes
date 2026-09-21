@@ -116,7 +116,7 @@ PrayerTimes Pro is free to download on either channel, and the heart of it stays
 
 The prayer check-in, the Salawat reminder, a short iqamah after each prayer and the classic menu bar are free too.
 
-A **$4.99 one-time Pro unlock** adds three things:
+A **$14.99 one-time Pro unlock** adds three things:
 
 - **The living sky** — an animated sky behind the countdown across four painted scenes, the sun’s path across the day, the Ramadan cannon, fourteen menu bar styles, a calm full-screen clock for a spare display, and every accent colour.
 - **Every adhan and iqamah reciter** — the full adhan library recorded across 28 countries, a separate call for Fajr, every iqamah recording, and the spoken pre-prayer announcement voice.
@@ -153,7 +153,7 @@ Every contribution — no matter how small — helps keep the app actively devel
 <!-- BEGIN abd3lraouf-studios:press -->
 ## Press & marketing assets
 
-PrayerTimes Pro keeps accurate prayer times a glance away in the macOS menu bar, with twenty-six calculation methods, five languages and a prayer log, computed on the Mac itself. It is free on the Mac App Store and as a direct download, and a $4.99 one-time Pro unlock adds the living sky, every adhan reciter, and streaks and qada.
+PrayerTimes Pro keeps accurate prayer times a glance away in the macOS menu bar, with twenty-six calculation methods, five languages and a prayer log, computed on the Mac itself. It is free on the Mac App Store and as a direct download, and a one-time Pro unlock adds the living sky, every adhan reciter, and streaks and qada.
 
 **Naming.** Written "PrayerTimes Pro" — one word for the product name, capital P and T, with "Pro" as a separate word. Never "Prayer Times" or "Prayertimes".
 
