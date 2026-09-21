@@ -245,6 +245,21 @@
       length="130205516"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 4.10.2</title>
+    <sparkle:version>96</sparkle:version>
+    <sparkle:shortVersionString>4.10.2</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Mon, 21 Sep 2026 09:59:18 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Live Pro price on the direct build.</strong> The paywall quoted `LicenceStorefront.displayPrice`, a constant, and kept saying $4.99 after the Polar product moved to $14.99. The licence Worker gains a public, edge-cached `/v2/price` (a `products:read`-only token) and `LicenceClient` formats its answer (`LicencePriceQuote`); a failed read shows no figure and a retry, as the App Store build does. The licence card's Paid tile no longer guesses an amount</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v4.10.2/PrayerTimes-4.10.2.zip"
+      sparkle:version="96"
+      sparkle:shortVersionString="4.10.2"
+      sparkle:edSignature="V1D6GEeMaHa0jPP65onO3hi33g8s7ZqdQ7wPSCOX0BAhY9mMP+ZLuPzErp4hcZXwlISchrEG8GD5Ng79s/8zBA=="
+      length="130211561"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
