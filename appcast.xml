@@ -231,6 +231,21 @@
       length="130195190"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 4.10.1</title>
+    <sparkle:version>95</sparkle:version>
+    <sparkle:shortVersionString>4.10.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Mon, 21 Sep 2026 08:13:00 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Hidden panel at rest.</strong> The menu-bar panel's hosting view outlives every close, so on a Pro install with the animated sky its two 60 fps timelines and SpriteKit layer kept rendering against an ordered-out window — ~25% CPU around the clock and main-thread stalls in `-[CAMetalLayer isDrawableAvailable]` (Sentry PRAYERTIMES-2). `PanelPresentation.isOnScreen` → `\.panelIsOnScreen` now stills the sky, the streak flame, the timeline's now-node pulse, the Qibla dial, the Hijri today marker and `PremiumFrame` while the panel is closed (idle CPU 23–25% → 2.8%)</li><li><strong>Notification permission.</strong> An install past onboarding that was never asked is asked once at launch, and the schedule is re-armed on a grant</li><li><strong>Telemetry.</strong> `Onboarding.advanced` sends step names (Release builds sent `OnboardingStep(rawValue: n)`); `Sound.played` sends `sound_channel` instead of overwriting the distribution `channel`</li><li><strong>Symbolication.</strong> `release.yml` and `build.sh --signed` upload every build's dSYMs to Sentry (`scripts/upload-dsyms.sh`)</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v4.10.1/PrayerTimes-4.10.1.zip"
+      sparkle:version="95"
+      sparkle:shortVersionString="4.10.1"
+      sparkle:edSignature="4VV0Xm7HWJeCFBQVPbR9kAueneRrwjtlL023/kUPL9YZp7HadurhzJcWK9rMz5SO1c5iw1kGf1R0iAOGHcGGAQ=="
+      length="130205516"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
