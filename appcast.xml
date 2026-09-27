@@ -315,6 +315,21 @@
       length="99905269"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 5.0.3</title>
+    <sparkle:version>101</sparkle:version>
+    <sparkle:shortVersionString>5.0.3</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 27 Sep 2026 14:40:05 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Floating surfaces never cover each other.</strong> The notification banner, the check-in, the Azkar player and the routine counter placed themselves as if alone, and three default to the top-trailing corner, so a reminder arriving with the check-in covered its buttons. `FloatingSurfaceLayout` ranks them: user-placed panels (player, counter) never move; the check-in clears them and follows them back into its corner when they go, until the user drags it; the banner clears everything and settles once, after the others have reflowed.</li><li>DEBUG: Debug ▸ Notification Overlap and `scripts/notification-overlap.sh` script and measure the collisions.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v5.0.3/PrayerTimes-5.0.3.zip"
+      sparkle:version="101"
+      sparkle:shortVersionString="5.0.3"
+      sparkle:edSignature="H+cyLzkqm/sMkAX/y204U6NkRslQcpo+Z9dX/3hTD5AgYJT9R56IHGl9YLBiGhrKqY1UoZgTFqKEcJhwtBQZBw=="
+      length="99928346"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
