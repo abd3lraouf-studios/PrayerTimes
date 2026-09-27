@@ -287,6 +287,21 @@
       length="100690667"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 5.0.1</title>
+    <sparkle:version>99</sparkle:version>
+    <sparkle:shortVersionString>5.0.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 27 Sep 2026 03:18:37 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>One scheduled sound at a time.</strong> `PrayerAudioController.ScheduledSound` ranks the call (adhan, iqamah) over the pre-prayer announcement over the Salawat reminder: a sound yields to a higher one already sounding and silences lower ones. Every scheduled sound stops every preview (Settings, the adhan library, the guide's reciter samples); pressing a preview silences the scheduled sound; the reminder also stands down for a preview. A banner-spoken announcement is noted for its clip's length so a reminder does not talk over it. New telemetry outcomes `yielded_to_announcement`, `yielded_to_preview`.</li><li><strong>Dismissible Home cards.</strong> A hover ✕ on the streak, azkar and fasting/Friday cards turns off that card's Settings switch; for eight seconds its place names the switch and the pane (arrows follow RTL), and a click opens that pane.</li><li><strong>macOS 27 multi-display panel placement.</strong> The panel anchors on the status-item copy that was clicked and hangs from the menu bar's bottom, instead of opening at another display's top-left corner.</li><li>The travel home's place name in Settings is shown as it is, not looked up as a string key.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v5.0.1/PrayerTimes-5.0.1.zip"
+      sparkle:version="99"
+      sparkle:shortVersionString="5.0.1"
+      sparkle:edSignature="WDoEzLuln8tbsU35MLuipr+JuYaGjfg3v+JJspNPTnUfejOHNWJcjRx6/KUdnUL/zysWmYAaeE+XlxhOGRRnAg=="
+      length="99902527"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
