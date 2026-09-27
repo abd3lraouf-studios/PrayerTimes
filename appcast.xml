@@ -329,6 +329,21 @@
       length="99928346"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 5.1.0</title>
+    <sparkle:version>102</sparkle:version>
+    <sparkle:shortVersionString>5.1.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 27 Sep 2026 19:43:57 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Liquid Glass, laid under the design.</strong> Settings ▸ Appearance ▸ Material chooses Metal (the default) or Liquid Glass on macOS 26, free. Glass sits under the app's own design rather than replacing it: floating surfaces keep their painted grounds at reduced opacity over `.glassEffect` (`materialGround`), buttons keep their metal face on interactive glass (`MetalFace`), and cards stay metal. The panel gets an `NSGlassEffectView` under one surface wash, with its screens on `panelGround()`; the onboarding window is glass below the laptop render, whose backdrop is baked in. Never drawn under test: a `.glassEffect` blinds the `cacheDisplay` render tests.</li><li><strong>Glass follows the sky.</strong> `GlassSky` publishes the hero's `SceneClock` scene and tints every glass surface, the panel and neutral glass buttons; hero chips are `Glass.clear` lenses; the widget washes its container background with the same palette and marks the next prayer `widgetAccentable` for Tahoe's clear and tinted modes.</li><li><strong>Morphing glass.</strong> A lens follows the pointer across the tab bar and the More menu (`glassEffectID` in a `GlassEffectContainer`); the Azkar player's Done bar folds into its controls on collapse; the banner's snooze pills share a container. The Glass and Liquid menu bar pills draw on real glass (`MenuBarPillLook.realGlass`).</li><li><strong>The onboarding window drags from anywhere</strong> that is not a control (`WindowDragGesture` over a full-window hit shape); it moved only by its title text.</li><li><strong>The panel opens in front of the frontmost app while Settings is open</strong> (`setPanelRaised`); `PanelLevelTests` and `scripts/panel-front.sh` pin and measure it.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v5.1.0/PrayerTimes-5.1.0.zip"
+      sparkle:version="102"
+      sparkle:shortVersionString="5.1.0"
+      sparkle:edSignature="NfFN4CU1waX3lZ7aeJrqKOZNunB7s6DyY6q8TzP86Fyn1K5Bh7wh3Q0Ndges5CA2PZkqTvfrlS2plNrngTMWAw=="
+      length="100007314"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
