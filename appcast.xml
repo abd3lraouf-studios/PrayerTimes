@@ -301,6 +301,21 @@
       length="99902527"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 5.0.2</title>
+    <sparkle:version>100</sparkle:version>
+    <sparkle:shortVersionString>5.0.2</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 27 Sep 2026 04:17:17 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>The right-click menu opens under the icon that was clicked.</strong> 5.0.1 anchored the panel on the clicked copy of the status item; the context menu still went through `performClick` / `popUp(in: button)`, which place it under `button.window` — one display's copy only. A copy that is not the button's own now gets the menu popped in screen coordinates under that copy (`contextMenuOrigin`, trailing edge in RTL).</li><li>App Store text maps "✕" and "ﷺ", which App Store Connect refuses in What's New.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v5.0.2/PrayerTimes-5.0.2.zip"
+      sparkle:version="100"
+      sparkle:shortVersionString="5.0.2"
+      sparkle:edSignature="cyWUc7lMtTxTw+rUUphQ90pjMnIUOLj8fSPafURs3UDAW37g5ST1WfeAIZ40aM3jmH6aX1fBvMRmT70lVQCvBA=="
+      length="99905269"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
