@@ -41,10 +41,6 @@
     <img src="https://img.shields.io/badge/sandboxed-✓-success.svg" alt="Sandboxed">
 </p>
 
-<p align="center">
-    <img src="art/en/screenshots.png" alt="PrayerTimes Pro screenshots — the welcome guide, the prayer timeline with countdown and streak, a full-screen prayer alert, and Settings" width="780">
-</p>
-
 ---
 
 ## Why PrayerTimes Pro?

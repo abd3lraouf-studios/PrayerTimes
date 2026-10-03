@@ -41,10 +41,6 @@
     <img src="https://img.shields.io/badge/sandboxed-✓-success.svg" alt="Sandboxed">
 </p>
 
-<p align="center">
-    <img src="art/id/screenshots.png" alt="Tangkapan layar PrayerTimes Pro" width="780">
-</p>
-
 ---
 
 ## Mengapa PrayerTimes Pro?

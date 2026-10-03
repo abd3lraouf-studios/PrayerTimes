@@ -41,10 +41,6 @@
     <img src="https://img.shields.io/badge/sandboxed-✓-success.svg" alt="يعمل في بيئة معزولة">
 </p>
 
-<p align="center">
-    <img src="art/ar/screenshots.png" alt="لقطات شاشة أوقات الصلاة برو" width="780">
-</p>
-
 ---
 
 ## لماذا أوقات الصلاة برو؟

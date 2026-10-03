@@ -41,10 +41,6 @@
     <img src="https://img.shields.io/badge/sandboxed-✓-success.svg" alt="Sandboxed">
 </p>
 
-<p align="center">
-    <img src="art/ur/screenshots.png" alt="نماز کے اوقات پرو کے اسکرین شاٹس" width="780">
-</p>
-
 ---
 
 ## نماز کے اوقات پرو ہی کیوں؟
