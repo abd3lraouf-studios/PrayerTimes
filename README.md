@@ -85,64 +85,87 @@
 
 PrayerTimes Pro ships on two channels. Same app, same price — take whichever suits you.
 
+**Direct download** — signed and notarized, updates itself, and Pro unlocks with a licence key that is yours to keep, on up to three Macs.
+
+- [Download the latest DMG](https://abd3lraouf.dev/download/prayertimes/macos)
+- Or with Homebrew: `brew install --cask abd3lraouf-studios/tap/prayertimes`
+
 **Mac App Store** — Apple handles the purchase and the updates.
 
 <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
     <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="48">
 </a>
 
-**Direct download** — signed and notarized, updates itself, and Pro unlocks with a licence key that is yours to keep.
-
-- [Download the latest DMG](https://abd3lraouf.dev/download/prayertimes/macos)
-- Or with Homebrew: `brew install --cask abd3lraouf-studios/tap/prayertimes`
-
 ## Features
 
+### Prayer times
+
 - Menu bar **countdown**, exact time, compact, or icon-only display
-- **Notifications** before and at prayer time, with optional full-screen alerts
-- **Fourteen menu bar styles** that show the adhan, the iqamah and a prayer still waiting at a glance — the classic menu bar stays free
-- **Iqamah alert** — the iqamah plays a set number of minutes after the adhan, per prayer: a short "Qad qāmatis-ṣalāh" or a full iqamah from fifteen recordings
-- **Prayer check-in** — a gentle window asks whether you have prayed, and asks again while the prayer is still open
-- **Salawat reminder** — a recited "Allahumma salli ʿala Muhammad" at the interval you choose, silent during your quiet hours
-- **Four painted skies** behind every prayer, and a calm full-screen clock for a spare display
+- **Fourteen menu bar styles** that show the adhan, the iqamah and a prayer still waiting at a glance — the classic menu bar stays free, and the red missed-prayer count can be hidden
 - **26 calculation methods**: Muslim World League (MWL), ISNA, Egyptian General Authority, Umm al-Qura (Makkah), Diyanet (Turkey), Kemenag (Indonesia), Karachi, Tehran, Dubai, Qatar, Singapore, Kuwait, Algeria, France, Germany, Malaysia (JAKIM), and more
 - **Auto or manual location** · per-prayer time adjustments to match your local mosque
-- **Hijri calendar** with adjustable date and Islamic event notifications (Ramadan, Eid al-Fitr, Eid al-Adha, Islamic New Year, Day of Ashura, and more)
+- **Hijri calendar** with adjustable date and Islamic event notifications (Ramadan, Eid al-Fitr, Eid al-Adha, Islamic New Year, Day of Ashura, and more), and the sunnah fasts you follow marked on it
 - **Ramadan mode**: Suhoor and Iftar notifications with pre-alerts
-- **Prayer log** — mark each prayer as you pray it, with a Fajr-anchored day rollover, streaks, and make-up (qada) tracking
-- **Sunnah & Nawāfil** tracking alongside the five obligatory prayers
 - **Qibla compass** pointing to the Kaaba from wherever you are
+- **A prayer-times widget** for your desktop and Notification Centre
+
+### The adhan and the iqamah
+
+- **Notifications** before and at prayer time, with optional full-screen alerts, which stay on screen while the adhan plays
 - **Adhan library** — a catalogue of recordings from 28 countries, with a separate adhan for Fajr, quiet hours, snooze defaults, and per-prayer announcements
 - **Bring your own muezzin** — use a recording you already love, give each prayer its own reciter, and trim it to begin where you want
-- **A prayer-times widget** for your desktop and Notification Centre
-- **iCloud sync** — your prayer log and preferences follow you between Macs, with an export and a year in review
-- **Settings that find themselves** — a sidebar window with search across every pane
-- **Locale-aware numerals** (Arabic-Indic, Extended Arabic-Indic, Western)
-- **5 languages**: English, العربية, Bahasa Indonesia, فارسی, اردو — with full RTL support
+- **Iqamah alert** — the iqamah plays a set number of minutes after the adhan, per prayer: a short "Qad qāmatis-ṣalāh" or a full iqamah from fifteen recordings
+- **A Stop button for every call** — whenever the adhan or the iqamah is sounding, a small control shows it with a Stop button, and ⌘. stops it from any app
+- **Quiet for the adhan** — Music, TV and Spotify pause for the adhan and the iqamah and come back afterwards, and during a call, prayer time arrives as a quiet notification
+
+### Your practice
+
+- **Prayer log** — mark each prayer as you pray it, with a Fajr-anchored day rollover, streaks, and make-up (qada) tracking
+- **Prayer check-in** — a gentle window asks whether you have prayed, and asks again while the prayer is still open
+- **Sunnah & Nawāfil** tracking alongside the five obligatory prayers
+- **Azkar** — morning, evening, after-prayer and bedtime adhkar and all of Hisn al-Muslim, counted as you go and recited aloud word by word; count tasbih from any app with a shortcut you choose
+- **Daily routines** — your adhkar, Quran pages and tasbih in one daily wird, with a player of its own
+- **Khatma planner** — finish by a date or by the end of Ramadan, with today's pages and your pace, and a week and month report to share
+- **Sunnah fasts & Jumuʿah** — a reminder the evening before Mondays, Thursdays, the White Days, Arafah and Ashura, suhoor and iftar alerts on a fast you intend, and Friday's al-Kahf, ghusl and hour of response
+- **Travel mode** — away from home it asks how long you will stay and follows your school (Shafiʿi, Maliki, Hanbali, Hanafi or custom) to show which prayers to shorten; one tap logs combined prayers together
+- **A day planned around prayer** — a break for each prayer between your meetings, and reminder profiles that switch by day and time
+- **Salawat reminder** — a recited "Allahumma salli ʿala Muhammad" at the interval you choose, silent during your quiet hours
+
+### Look and feel
+
+- **A living sky** — four painted landscapes through seven times of day behind every prayer, now light on your Mac, and a calm full-screen clock for a spare display
+- **Liquid Glass** on macOS Tahoe, tinted the colour of the hour
 - **Light/dark mode** follows your system, with an appearance override and accent colour picker
+- **Settings that find themselves** — a sidebar window with search across every pane
+- **iCloud sync** — your prayer log and preferences follow you between Macs, with an export and a year in review
+- **Siri, Shortcuts and Focus** — Shortcuts actions, and a Focus that quiets reminders
+- **5 languages**: English, العربية, Bahasa Indonesia, فارسی, اردو — with full RTL support
+- **Locale-aware numerals** (Arabic-Indic, Extended Arabic-Indic, Western)
 - **Accessible** — Dynamic Type, Increase Contrast and Reduce Motion respected app-wide
 
 ## Free and Pro
 
-PrayerTimes Pro is free to download on either channel, and the heart of it stays free for good: the menu bar countdown, every one of the 26 calculation methods, per-prayer adjustments, notifications, full-screen alerts and the adhan itself, the Hijri calendar and its event reminders, Ramadan mode, the Qibla compass, marking each prayer as you pray it, the Siri and Shortcuts action, and both light and dark themes. That is a complete prayer times app, and it costs nothing.
+PrayerTimes Pro is free to download on either channel, and the heart of it stays free for good: the menu bar countdown, every one of the 26 calculation methods, per-prayer adjustments, notifications, full-screen alerts and the adhan itself, the Stop button, the Hijri calendar with its event and sunnah-fast reminders, Ramadan mode, the Qibla compass, marking each prayer as you pray it, azkar with one reciter, the tasbih shortcut, pausing music for the adhan, Siri and Shortcuts, Liquid Glass, and both light and dark themes. That is a complete prayer times app, and it costs nothing.
 
 The prayer check-in, the Salawat reminder, a short iqamah after each prayer and the classic menu bar are free too.
 
-A **$14.99 one-time Pro unlock** adds three things:
+A **$14.99 one-time Pro unlock** adds:
 
 - **The living sky** — an animated sky behind the countdown across four painted scenes, the sun’s path across the day, the Ramadan cannon, fourteen menu bar styles, a calm full-screen clock for a spare display, and every accent colour.
-- **Every adhan and iqamah reciter** — the full adhan library recorded across 28 countries, a separate call for Fajr, every iqamah recording, and the spoken pre-prayer announcement voice.
+- **Every reciter** — the full adhan library recorded across 28 countries, a separate call for Fajr, every iqamah recording, the spoken pre-prayer announcement voice, and every azkar reciter.
 - **Streaks and qada** — the streak calendar and your records, the Sunnah checklist, and the make-up ledger.
+- **Your daily practice** — daily routines, the khatma planner, and the week and month report.
+- **Travel and your workday** — travel mode, a break for each prayer between your meetings, and reminder profiles by day and time.
 
-One payment, no subscription, no account. Bought on the App Store it stays with your Apple Account; bought for the direct build it stays with your licence key.
+One payment, no subscription, no account. Bought for the direct build it stays with your licence key, on up to three Macs; bought on the App Store it stays with your Apple Account.
 
 ## Privacy
 
 No advertising, no accounts, and nothing that tracks you across apps or the web. Prayer times are calculated entirely on your Mac, and your **precise** location is never transmitted. What does leave the Mac: anonymous usage counts — never your location or your prayer log, and all of it off in one tap under Settings → General → Diagnostics. If you switch on iCloud sync, your prayer log and preferences also travel through **your own** iCloud to your other Macs — never through a server of ours. It is off until you turn it on.
 
-To show a city name rather than raw coordinates, the app rounds your position to ~1.1 km and asks Apple's geocoder for a name. Sending that coarsened coordinate to **OpenStreetMap Nominatim** instead — which Indonesian, Persian and Urdu need for a correctly-written name — is **off by default** and opt-in under Settings → Prayer Times → Location. Typing a city into the location picker sends the text you typed. Pro audio (adhan clips and azkar reciters) downloads on demand from the app's own asset server, which checks your Pro unlock first. App Store builds are updated through the App Store; the direct build checks for its own updates.
+To show a city name rather than raw coordinates, the app rounds your position to ~1.1 km and asks Apple's geocoder for a name. Sending that coarsened coordinate to **OpenStreetMap Nominatim** instead — which Indonesian, Persian and Urdu need for a correctly-written name — is **off by default** and opt-in under Settings → Prayer Times → Location. Typing a city into the location picker sends the text you typed. Pro audio (adhan clips and azkar reciters) downloads on demand from the app's own asset server, which checks your Pro unlock first. The direct build checks for its own updates; App Store builds are updated through the App Store.
 
-Pausing media during the adhan is optional. When you allow it under Privacy & Security → Automation, the app asks Music, TV or Spotify — only one that is already running — whether it is playing, to pause and to play again, and nothing else. Travel mode keeps your home and where you are on this Mac; neither is synced or sent.
+Pausing media during the adhan is optional. When you allow it under Privacy & Security → Automation, the app asks Music, TV or Spotify — only one that is already running — whether it is playing, to pause and to play again, and nothing else. Travel mode keeps your home and where you are on this Mac; neither is synced or sent. Finding a break for each prayer between meetings reads your calendar on this Mac, and only once you allow it; your events never leave the Mac.
 
 ## What you can do here
 

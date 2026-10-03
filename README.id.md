@@ -85,64 +85,87 @@
 
 PrayerTimes Pro hadir lewat dua kanal. Aplikasi yang sama dengan harga yang sama — pilih yang paling cocok untuk Anda.
 
+**Unduhan langsung** — sudah ditandatangani dan dinotarisasi, memperbarui dirinya sendiri, dan Pro dibuka dengan kunci lisensi yang menjadi milik Anda, untuk hingga tiga Mac.
+
+- [Unduh berkas DMG terbaru](https://abd3lraouf.dev/download/prayertimes/macos)
+- Atau lewat Homebrew: `brew install --cask abd3lraouf-studios/tap/prayertimes`
+
 **Mac App Store** — pembelian dan pembaruan ditangani Apple.
 
 <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
     <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Unduh di Mac App Store" height="48">
 </a>
 
-**Unduhan langsung** — sudah ditandatangani dan dinotarisasi, memperbarui dirinya sendiri, dan Pro dibuka dengan kunci lisensi yang menjadi milik Anda.
-
-- [Unduh berkas DMG terbaru](https://abd3lraouf.dev/download/prayertimes/macos)
-- Atau lewat Homebrew: `brew install --cask abd3lraouf-studios/tap/prayertimes`
-
 ## Fitur
 
+### Waktu shalat
+
 - **Hitung mundur** di menu bar, waktu pasti, tampilan ringkas, atau hanya ikon
-- **Notifikasi** sebelum dan saat waktu shalat, dengan opsi peringatan layar penuh
-- **Empat belas gaya menu bar** yang menampilkan adzan, iqamah, dan shalat yang belum dicatat dalam sekejap — menu bar klasik tetap gratis
-- **Pengingat iqamah** — iqamah diputar beberapa menit setelah adzan, sesuai pilihan Anda untuk setiap shalat: "Qad qāmatis-ṣalāh" singkat atau iqamah lengkap dari lima belas rekaman
-- **Check-in shalat** — jendela yang lembut menanyakan apakah Anda sudah shalat, dan bertanya lagi selama waktu shalat masih ada
-- **Pengingat shalawat** — "Allahumma shalli 'ala Muhammad" yang dilantunkan pada selang waktu pilihan Anda, dan diam selama jam tenang
-- **Empat langit lukisan** di balik setiap shalat, dan jam layar penuh yang tenang untuk layar cadangan
+- **Empat belas gaya menu bar** yang menampilkan adzan, iqamah, dan shalat yang belum dicatat dalam sekejap — menu bar klasik tetap gratis, dan hitungan merah shalat terlewat bisa disembunyikan
 - **26 metode perhitungan**: Muslim World League (MWL), ISNA, Otoritas Umum Mesir, Umm al-Qura (Makkah), Diyanet (Turki), Kemenag (Indonesia), Karachi, Tehran, Dubai, Qatar, Singapura, Kuwait, Aljazair, Prancis, Jerman, Malaysia (JAKIM), dan lainnya
 - **Lokasi otomatis atau manual** · penyesuaian waktu per shalat untuk menyesuaikan masjid setempat
-- **Kalender Hijriah** dengan tanggal yang dapat disesuaikan dan notifikasi peristiwa Islam (Ramadan, Idul Fitri, Idul Adha, Tahun Baru Hijriah, Hari Asyura, dan lainnya)
+- **Kalender Hijriah** dengan tanggal yang dapat disesuaikan dan notifikasi peristiwa Islam (Ramadan, Idul Fitri, Idul Adha, Tahun Baru Hijriah, Hari Asyura, dan lainnya), dengan puasa sunnah yang Anda ikuti ditandai
 - **Mode Ramadan**: notifikasi Sahur dan Berbuka dengan peringatan dini
-- **Catatan shalat** — tandai setiap shalat saat Anda menunaikannya, dengan pergantian hari berpatokan Subuh, rentetan (streak), dan pelacakan qada
-- **Sunnah & Nawafil** di samping lima shalat wajib
 - **Kompas kiblat** yang mengarah ke Ka'bah dari mana pun Anda berada
+- **Widget waktu shalat** untuk desktop dan Pusat Notifikasi
+
+### Adzan dan iqamah
+
+- **Notifikasi** sebelum dan saat waktu shalat, dengan opsi peringatan layar penuh, yang tetap di layar selama adzan berkumandang
 - **Pustaka adzan** — koleksi rekaman dari 28 negara, dengan adzan terpisah untuk Subuh, jam senyap, setelan tunda, dan pengumuman per shalat
 - **Bawa muazin Anda sendiri** — pakai rekaman yang Anda sukai, beri setiap shalat muazinnya sendiri, dan pangkas awalnya sesuai keinginan
-- **Widget waktu shalat** untuk desktop dan Pusat Notifikasi
-- **Sinkronisasi iCloud** — catatan shalat dan preferensi Anda mengikuti antar-Mac, dengan ekspor dan tinjauan setahun
-- **Pengaturan yang mudah ditemukan** — jendela bersidebar dengan pencarian lintas panel
-- **Numeral sesuai lokal** (Arab-Indic, Arab-Indic Diperluas, Barat)
-- **5 bahasa**: English, العربية, Bahasa Indonesia, فارسی, اردو — dengan dukungan RTL penuh
+- **Pengingat iqamah** — iqamah diputar beberapa menit setelah adzan, sesuai pilihan Anda untuk setiap shalat: "Qad qāmatis-ṣalāh" singkat atau iqamah lengkap dari lima belas rekaman
+- **Tombol berhenti untuk setiap panggilan** — selama adzan atau iqamah berbunyi, kontrol kecil menampilkannya dengan tombol Berhenti, dan ⌘. menghentikannya dari aplikasi apa pun
+- **Hening untuk adzan** — Music, TV, dan Spotify dijeda selama adzan dan iqamah lalu berlanjut, dan saat Anda sedang menelepon, waktu shalat datang sebagai notifikasi yang tenang
+
+### Ibadah harian Anda
+
+- **Catatan shalat** — tandai setiap shalat saat Anda menunaikannya, dengan pergantian hari berpatokan Subuh, rentetan (streak), dan pelacakan qada
+- **Check-in shalat** — jendela yang lembut menanyakan apakah Anda sudah shalat, dan bertanya lagi selama waktu shalat masih ada
+- **Sunnah & Nawafil** di samping lima shalat wajib
+- **Zikir** — zikir pagi, petang, setelah shalat, dan sebelum tidur, serta seluruh Hisnul Muslim, dihitung sambil berzikir dan dilantunkan kata demi kata; hitung tasbih dari aplikasi mana pun dengan pintasan pilihan Anda
+- **Wirid harian** — zikir, halaman Al-Qur'an, dan tasbih Anda dalam satu wirid harian, dengan pemutarnya sendiri
+- **Perencana khatam** — selesaikan pada tanggal tertentu atau akhir Ramadan, dengan halaman hari ini dan kecepatan Anda, serta laporan pekan dan bulan untuk dibagikan
+- **Puasa sunnah & Jumat** — pengingat malam sebelum Senin, Kamis, Ayyamul Bidh, Arafah, dan Asyura, pengingat sahur dan berbuka untuk puasa yang Anda niatkan, serta Al-Kahfi, mandi, dan waktu ijabah hari Jumat
+- **Mode perjalanan** — jauh dari rumah, aplikasi bertanya berapa lama Anda tinggal dan mengikuti mazhab Anda (Syafi'i, Maliki, Hanbali, Hanafi, atau 'urf) untuk menunjukkan shalat yang diqashar; satu ketukan mencatat shalat jamak sekaligus
+- **Hari yang diatur sekitar shalat** — jeda untuk setiap shalat di antara rapat Anda, dan profil pengingat yang berganti menurut hari dan jam
+- **Pengingat shalawat** — "Allahumma shalli 'ala Muhammad" yang dilantunkan pada selang waktu pilihan Anda, dan diam selama jam tenang
+
+### Tampilan dan nuansa
+
+- **Langit yang hidup** — empat pemandangan lukisan dalam tujuh waktu sepanjang hari di balik setiap shalat, kini ringan di Mac Anda, serta jam layar penuh yang tenang untuk layar cadangan
+- **Liquid Glass** di macOS Tahoe, berwarna mengikuti waktu
 - **Mode terang/gelap** mengikuti sistem Anda, dengan penimpaan tampilan dan pemilih warna aksen
+- **Pengaturan yang mudah ditemukan** — jendela bersidebar dengan pencarian lintas panel
+- **Sinkronisasi iCloud** — catatan shalat dan preferensi Anda mengikuti antar-Mac, dengan ekspor dan tinjauan setahun
+- **Siri, Pintasan, dan Fokus** — aksi Pintasan, dan Fokus yang menyenyapkan pengingat
+- **5 bahasa**: English, العربية, Bahasa Indonesia, فارسی, اردو — dengan dukungan RTL penuh
+- **Numeral sesuai lokal** (Arab-Indic, Arab-Indic Diperluas, Barat)
 - **Aksesibilitas** — Dynamic Type, Increase Contrast, dan Reduce Motion dihormati di seluruh aplikasi
 
 ## Gratis dan Pro
 
-PrayerTimes Pro gratis diunduh lewat kanal mana pun, dan inti aplikasinya tetap gratis selamanya: hitung mundur di menu bar, seluruh 26 metode perhitungan, penyesuaian per shalat, notifikasi, peringatan layar penuh, dan adzannya sendiri, kalender Hijriah beserta pengingat peristiwanya, mode Ramadan, kompas kiblat, menandai setiap shalat saat Anda menunaikannya, aksi Siri dan Pintasan, serta tema terang dan gelap. Itu sudah aplikasi waktu shalat yang lengkap, dan tidak memungut biaya apa pun.
+PrayerTimes Pro gratis diunduh lewat kanal mana pun, dan inti aplikasinya tetap gratis selamanya: hitung mundur di menu bar, seluruh 26 metode perhitungan, penyesuaian per shalat, notifikasi, peringatan layar penuh, dan adzannya sendiri, tombol berhenti, kalender Hijriah beserta pengingat peristiwa dan puasa sunnah, mode Ramadan, kompas kiblat, menandai setiap shalat saat Anda menunaikannya, zikir dengan satu qari, pintasan tasbih, jeda musik saat adzan, Siri dan Pintasan, Liquid Glass, serta tema terang dan gelap. Itu sudah aplikasi waktu shalat yang lengkap, dan tidak memungut biaya apa pun.
 
 Check-in shalat, pengingat shalawat, iqamah singkat setelah setiap shalat, dan menu bar klasik juga gratis.
 
-**Buka Pro sekali bayar seharga $4,99** menambahkan tiga hal:
+**Buka Pro sekali bayar seharga $14,99** menambahkan:
 
 - **Langit yang hidup** — langit beranimasi di balik hitung mundur dalam empat pemandangan lukisan, busur lintasan matahari sepanjang hari, meriam Ramadan, empat belas gaya menu bar, jam layar penuh yang tenang untuk layar cadangan, dan seluruh warna aksen.
-- **Seluruh muazin dan iqamah** — pustaka adzan lengkap yang direkam di 28 negara, adzan Subuh terpisah, seluruh rekaman iqamah, dan suara pengumuman lisan sebelum shalat.
+- **Seluruh suara** — pustaka adzan lengkap yang direkam di 28 negara, adzan Subuh terpisah, seluruh rekaman iqamah, suara pengumuman lisan sebelum shalat, dan seluruh qari zikir.
 - **Rentetan dan qada** — kalender rentetan beserta catatannya, daftar sunnah, dan buku qada.
+- **Ibadah harian Anda** — wirid harian, perencana khatam, serta laporan pekan dan bulan.
+- **Perjalanan dan hari kerja** — mode perjalanan, jeda untuk setiap shalat di antara rapat Anda, dan profil pengingat menurut hari dan jam.
 
-Sekali bayar, tanpa langganan, tanpa akun. Dibeli di App Store, ia melekat pada Akun Apple Anda; dibeli untuk versi langsung, ia melekat pada kunci lisensi Anda.
+Sekali bayar, tanpa langganan, tanpa akun. Dibeli untuk versi langsung, ia melekat pada kunci lisensi Anda, hingga tiga Mac; dibeli di App Store, ia melekat pada Akun Apple Anda.
 
 ## Privasi
 
 Tanpa iklan, tanpa akun, dan tanpa apa pun yang melacak Anda lintas aplikasi atau web. Waktu salat dihitung sepenuhnya di Mac Anda, dan lokasi **presisi** Anda tidak pernah dikirim. Yang benar-benar dikirim: hitungan penggunaan anonim — tidak pernah lokasi Anda atau catatan salat Anda, dan semuanya dapat dimatikan dengan satu ketukan di Pengaturan → Umum → Diagnostik. Jika Anda mengaktifkan sinkronisasi iCloud, catatan shalat dan preferensi Anda juga berpindah lewat **iCloud Anda sendiri** ke Mac lain — bukan lewat server kami. Fitur ini nonaktif sampai Anda menyalakannya.
 
-Untuk menampilkan nama kota alih-alih koordinat mentah, aplikasi membulatkan posisi Anda ke ~1,1 km lalu meminta namanya ke geocoder Apple. Mengirim koordinat yang sudah dibulatkan itu ke **OpenStreetMap Nominatim** — yang dibutuhkan bahasa Indonesia, Persia, dan Urdu agar namanya tertulis benar — **nonaktif secara bawaan** dan dapat diaktifkan di Pengaturan → Waktu Shalat → Lokasi. Saat mengetik nama kota di pemilih lokasi, hanya teks yang Anda ketik yang dikirim. Audio Pro (klip adzan dan qari zikir) diunduh sesuai permintaan dari server aset aplikasi sendiri, yang memeriksa aktivasi Pro Anda terlebih dahulu. Versi App Store diperbarui melalui App Store; versi langsung memeriksa pembaruannya sendiri.
+Untuk menampilkan nama kota alih-alih koordinat mentah, aplikasi membulatkan posisi Anda ke ~1,1 km lalu meminta namanya ke geocoder Apple. Mengirim koordinat yang sudah dibulatkan itu ke **OpenStreetMap Nominatim** — yang dibutuhkan bahasa Indonesia, Persia, dan Urdu agar namanya tertulis benar — **nonaktif secara bawaan** dan dapat diaktifkan di Pengaturan → Waktu Shalat → Lokasi. Saat mengetik nama kota di pemilih lokasi, hanya teks yang Anda ketik yang dikirim. Audio Pro (klip adzan dan qari zikir) diunduh sesuai permintaan dari server aset aplikasi sendiri, yang memeriksa aktivasi Pro Anda terlebih dahulu. Versi langsung memeriksa pembaruannya sendiri; versi App Store diperbarui melalui App Store.
 
-Menjeda media selama azan bersifat opsional. Saat Anda mengizinkannya di Privasi & Keamanan → Otomatisasi, aplikasi hanya menanyakan kepada Music, TV, atau Spotify — yang sudah berjalan saja — apakah sedang memutar, lalu meminta jeda dan putar lagi, tidak lebih. Mode perjalanan menyimpan rumah dan lokasi Anda saat ini di Mac ini; keduanya tidak disinkronkan atau dikirim.
+Menjeda media selama azan bersifat opsional. Saat Anda mengizinkannya di Privasi & Keamanan → Otomatisasi, aplikasi hanya menanyakan kepada Music, TV, atau Spotify — yang sudah berjalan saja — apakah sedang memutar, lalu meminta jeda dan putar lagi, tidak lebih. Mode perjalanan menyimpan rumah dan lokasi Anda saat ini di Mac ini; keduanya tidak disinkronkan atau dikirim. Mencari jeda untuk setiap shalat di antara rapat membaca kalender Anda di Mac ini, dan hanya setelah Anda mengizinkannya; acara di kalender Anda tidak pernah meninggalkan Mac.
 
 ## Yang bisa Anda lakukan di sini
 
