@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-    <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
-        <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Mac App Store سے ڈاؤن لوڈ کریں" height="56">
-    </a>
+    <a href="https://abd3lraouf.dev/download/prayertimes/macos"><strong>براہِ راست نسخہ ڈاؤن لوڈ کریں →</strong></a>
 </p>
 
 <p align="center">
-    <a href="https://abd3lraouf.dev/download/prayertimes/macos"><strong>براہِ راست نسخہ ڈاؤن لوڈ کریں →</strong></a>
+    <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
+        <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Mac App Store سے ڈاؤن لوڈ کریں" height="40">
+    </a>
 </p>
 
 <p align="center">
@@ -155,7 +155,7 @@
 - **ہر آواز** — 28 ممالک میں ریکارڈ کی گئی اذان کی مکمل لائبریری، فجر کے لیے الگ اذان، اقامت کی تمام ریکارڈنگز، نماز سے پہلے بولی جانے والی اطلاع کی آواز، اور اذکار کے تمام قاری۔
 - **تسلسل اور قضا** — تسلسل کا کیلنڈر اور آپ کا ریکارڈ، سنتوں کی فہرست، اور قضا کا کھاتہ۔
 - **آپ کی روزانہ عبادت** — روزانہ اوراد، ختم کا منصوبہ، اور ہفتے اور مہینے کی رپورٹ۔
-- **سفر اور کام کا دن** — سفر موڈ، آپ کی میٹنگز کے درمیان ہر نماز کے لیے وقفہ، اور دن اور وقت کے مطابق یاد دہانی کے پروفائل۔
+- **سفر اور کام کا دن** — سفر موڈ میں آپ کے مسلک کے مطابق قصر اور جمع نمازیں، آپ کی میٹنگز کے درمیان ہر نماز کے لیے وقفہ، اور دن اور وقت کے مطابق یاد دہانی کے پروفائل۔
 
 ایک ادائیگی، کوئی سبسکرپشن نہیں، کوئی اکاؤنٹ نہیں۔ براہِ راست نسخے کے لیے خریدیں تو یہ آپ کی لائسنس کلید کے ساتھ رہتا ہے، زیادہ سے زیادہ تین میک پر؛ App Store سے خریدیں تو آپ کے Apple اکاؤنٹ کے ساتھ۔
 

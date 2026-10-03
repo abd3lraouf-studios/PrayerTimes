@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-    <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
-        <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="حمّل من ماك آب ستور" height="56">
-    </a>
+    <a href="https://abd3lraouf.dev/download/prayertimes/macos"><strong>حمّل النسخة المباشرة →</strong></a>
 </p>
 
 <p align="center">
-    <a href="https://abd3lraouf.dev/download/prayertimes/macos"><strong>حمّل النسخة المباشرة →</strong></a>
+    <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
+        <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="حمّل من ماك آب ستور" height="40">
+    </a>
 </p>
 
 <p align="center">
@@ -155,7 +155,7 @@
 - **كل الأصوات** — مكتبة الأذان الكاملة المسجّلة في 28 دولة، وأذان منفصل للفجر، وكل تسجيلات الإقامة، وصوت التنبيه المنطوق قبل الصلاة، وكل قرّاء الأذكار.
 - **المواظبة والقضاء** — تقويم سلاسل المواظبة وسجلّاتها، وقائمة السنن، ودفتر ما عليك قضاؤه.
 - **وِردك اليومي** — الأوراد اليومية، وخطة الختمة، وتقرير الأسبوع والشهر.
-- **السفر ويوم العمل** — وضع السفر، واستراحة لكل صلاة بين اجتماعاتك، وملفات تذكير حسب اليوم والوقت.
+- **السفر ويوم العمل** — قصر الصلوات وجمعها في وضع السفر حسب مذهبك، واستراحة لكل صلاة بين اجتماعاتك، وملفات تذكير حسب اليوم والوقت.
 
 دفعة واحدة، بلا اشتراك وبلا حساب. في النسخة المباشرة يبقى الشراء مع مفتاح الترخيص، على ما يصل إلى ثلاثة أجهزة ماك، وفي آب ستور يبقى مرتبطًا بحساب Apple الخاص بك.
 

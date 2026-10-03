@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-    <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
-        <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="56">
-    </a>
+    <a href="https://abd3lraouf.dev/download/prayertimes/macos"><strong>Download the direct build →</strong></a>
 </p>
 
 <p align="center">
-    <a href="https://abd3lraouf.dev/download/prayertimes/macos"><strong>Download the direct build →</strong></a>
+    <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
+        <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="40">
+    </a>
 </p>
 
 <p align="center">
@@ -155,7 +155,7 @@ A **$14.99 one-time Pro unlock** adds:
 - **Every reciter** — the full adhan library recorded across 28 countries, a separate call for Fajr, every iqamah recording, the spoken pre-prayer announcement voice, and every azkar reciter.
 - **Streaks and qada** — the streak calendar and your records, the Sunnah checklist, and the make-up ledger.
 - **Your daily practice** — daily routines, the khatma planner, and the week and month report.
-- **Travel and your workday** — travel mode, a break for each prayer between your meetings, and reminder profiles by day and time.
+- **Travel and your workday** — travel mode's shortened and combined prayers, by your school, a break for each prayer between your meetings, and reminder profiles by day and time.
 
 One payment, no subscription, no account. Bought for the direct build it stays with your licence key, on up to three Macs; bought on the App Store it stays with your Apple Account.
 
@@ -190,7 +190,7 @@ Every contribution — no matter how small — helps keep the app actively devel
 <!-- BEGIN abd3lraouf-studios:press -->
 ## Press & marketing assets
 
-PrayerTimes Pro keeps accurate prayer times a glance away in the macOS menu bar, with twenty-six calculation methods, five languages and a prayer log, computed on the Mac itself. It is free on the Mac App Store and as a direct download, and a one-time Pro unlock adds the living sky, every adhan reciter, and streaks and qada.
+PrayerTimes Pro keeps accurate prayer times a glance away in the macOS menu bar, with twenty-six calculation methods, five languages and a prayer log, computed on the Mac itself. It is free as a direct download and on the Mac App Store, and a one-time Pro unlock adds the living sky, every adhan reciter, and streaks and qada.
 
 **Naming.** Written "PrayerTimes Pro" — one word for the product name, capital P and T, with "Pro" as a separate word. Never "Prayer Times" or "Prayertimes".
 

@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-    <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
-        <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Unduh di Mac App Store" height="56">
-    </a>
+    <a href="https://abd3lraouf.dev/download/prayertimes/macos"><strong>Unduh versi langsung →</strong></a>
 </p>
 
 <p align="center">
-    <a href="https://abd3lraouf.dev/download/prayertimes/macos"><strong>Unduh versi langsung →</strong></a>
+    <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
+        <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Unduh di Mac App Store" height="40">
+    </a>
 </p>
 
 <p align="center">
@@ -155,7 +155,7 @@ Check-in shalat, pengingat shalawat, iqamah singkat setelah setiap shalat, dan m
 - **Seluruh suara** — pustaka adzan lengkap yang direkam di 28 negara, adzan Subuh terpisah, seluruh rekaman iqamah, suara pengumuman lisan sebelum shalat, dan seluruh qari zikir.
 - **Rentetan dan qada** — kalender rentetan beserta catatannya, daftar sunnah, dan buku qada.
 - **Ibadah harian Anda** — wirid harian, perencana khatam, serta laporan pekan dan bulan.
-- **Perjalanan dan hari kerja** — mode perjalanan, jeda untuk setiap shalat di antara rapat Anda, dan profil pengingat menurut hari dan jam.
+- **Perjalanan dan hari kerja** — shalat qashar dan jamak dalam mode perjalanan, sesuai mazhab Anda, jeda untuk setiap shalat di antara rapat Anda, dan profil pengingat menurut hari dan jam.
 
 Sekali bayar, tanpa langganan, tanpa akun. Dibeli untuk versi langsung, ia melekat pada kunci lisensi Anda, hingga tiga Mac; dibeli di App Store, ia melekat pada Akun Apple Anda.
 

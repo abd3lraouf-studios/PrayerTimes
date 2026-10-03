@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-    <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
-        <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="دانلود از Mac App Store" height="56">
-    </a>
+    <a href="https://abd3lraouf.dev/download/prayertimes/macos"><strong>دانلود نسخهٔ مستقیم →</strong></a>
 </p>
 
 <p align="center">
-    <a href="https://abd3lraouf.dev/download/prayertimes/macos"><strong>دانلود نسخهٔ مستقیم →</strong></a>
+    <a href="https://apps.apple.com/eg/app/prayer-times-pro-menubar/id6763390896?mt=12">
+        <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="دانلود از Mac App Store" height="40">
+    </a>
 </p>
 
 <p align="center">
@@ -155,7 +155,7 @@
 - **همهٔ صداها** — کتابخانهٔ کامل اذان ضبط‌شده در ۲۸ کشور، اذان جداگانه برای صبح، همهٔ ضبط‌های اقامه، صدای یادآوری گفتاری پیش از نماز، و همهٔ قاریان اذکار.
 - **مداومت و قضا** — تقویم و سوابق زنجیرهٔ مداومت، سیاههٔ سنّت‌ها، و دفتر قضا.
 - **عبادت روزانهٔ شما** — اوراد روزانه، برنامهٔ ختم، و گزارش هفته و ماه.
-- **سفر و روز کاری** — حالت سفر، وقفه‌ای برای هر نماز میان جلسه‌هایتان، و پروفایل‌های یادآوری بر اساس روز و ساعت.
+- **سفر و روز کاری** — نمازهای شکسته و جمع‌شده در حالت سفر، طبق مذهب شما، وقفه‌ای برای هر نماز میان جلسه‌هایتان، و پروفایل‌های یادآوری بر اساس روز و ساعت.
 
 یک پرداخت، بدون اشتراک، بدون حساب کاربری. خرید نسخهٔ مستقیم با کلید مجوزتان می‌ماند، روی حداکثر سه مک، و خرید از App Store با حساب Apple شما.
 
