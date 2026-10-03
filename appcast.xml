@@ -343,6 +343,21 @@
       length="100007314"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 5.2.0</title>
+    <sparkle:version>103</sparkle:version>
+    <sparkle:shortVersionString>5.2.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Sat, 03 Oct 2026 03:26:10 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Beautiful skies, lighter on your Mac.</strong> Painted daytime and afternoon sun, bloom, clouds and light beams now share a native Metal renderer. Its draws follow the scene cadence instead of waking at the display refresh rate. Static paint stays outside animation clocks and is retained across countdown updates.</li><li><strong>Less work while hidden.</strong> Keep the native sky renderer attached and pause it when the panel is hidden; stop frame scheduling, flames, pulses and gallery progress when their surfaces are inactive. Footer pointer polling runs only while its menu is shown.</li><li><strong>Lighter Pro previews and bounded artwork caches.</strong> Native streak/progress animation, retained gallery skies, byte-bounded scene/thumbnail caches, and cached prayer-log/date presentation reduce repeated CPU work.</li><li><strong>Performance checks before publication.</strong> Both delivery lanes require the full repeated CPU, wakeup, memory, latency and renderer-liveness benchmark. Raw evidence and explicit failures are retained.</li><li><strong>Measured development comparison:</strong> daytime Pro-panel average CPU fell from 9.44% to 1.45–1.53% (median 1.47%) on Direct and from 12.92% to 1.42–1.64% (median 1.50%) on MAS; worst p95 across the six panel trials is 1.86%. Over the same runs the kernel's estimated CPU power fell from 102 to 32 mW (MAS) and 173 to 34 mW (Direct), and CPU wakeups from ~400/s to 32–38/s — the CPU's own estimate, excluding GPU, WindowServer and display. Measured on 5.2.0 (105) with `./scripts/perf-bench.sh`, three 20-second trials per channel; the baseline is one 15-second development run of the 5.1.0 code on the same Mac (macOS 27.0, candidate 27.0.1). One Mac's numbers, not a shipped-5.1.0 comparison or a battery-life claim. Method: `marketing/5.2.0/README.md`.</li><li><strong>Settings highlights the page you are on.</strong> A sub-screen opened from outside the window — Choose on Map from the city chip or Qibla, the Pro page from an upgrade prompt — now selects its own sidebar entry (`SettingsRoute.home`); the sidebar used to keep whatever page was last open, so the Adhan Library could sit under a highlighted General.</li><li><strong>The menu bar icon answers on the display you clicked.</strong> On macOS 27 a click on the status item arrives through the copy on the display that has focus, so `event.window` and `button.window` named the wrong display and the context menu (and the panel) opened there. Both now anchor on the icon under the pointer (`FluidMenuBarExtraStatusItem.clickedItemFrame`), and the menu has one placement for every look instead of `performClick` / `popUp(in: button)`.</li><li><strong>Menu bar text stays legible on any wallpaper.</strong> The bar is transparent, so its appearance bit does not name the tone behind the item; `MenuBarContrast` checks every colour against the range of tones each appearance can sit on and lays a plate of the opposite tone under text only where needed (Classic via the button backing, pills via `MenuBarPillLook.plate`). Increase Contrast asks for 7:1.</li><li><strong>A full disk drops log lines instead of aborting the app.</strong></li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v5.2.0/PrayerTimes-5.2.0.zip"
+      sparkle:version="103"
+      sparkle:shortVersionString="5.2.0"
+      sparkle:edSignature="zN6NHN9Tt55wPWq7ZvY8A9jtZhMnVGdHRefkobXHw620phiLHL7prXa9w9QQs09hshMci+MUbbVdwEbjB2oECA=="
+      length="101555521"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
