@@ -58,12 +58,24 @@
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/id/07-menubar.jpg" alt="Baru di 4.9 — empat belas gaya menu bar yang menampilkan adzan, iqamah, dan shalat yang belum dicatat."><br><sub><b>Baru di 4.9</b> — empat belas gaya menu bar yang menampilkan adzan, iqamah, dan shalat yang belum dicatat.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/id/03-themes.jpg" alt="Enam warna aksen, dalam mode terang dan gelap."><br><sub>Enam warna aksen, dalam mode terang dan gelap.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/id/store-09.jpg" alt="Baru di 5.2 — Langit indah, ringan di Mac Anda."><br><sub><b>Baru di 5.2</b> — Langit indah, ringan di Mac Anda.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/id/store-10.jpg" alt="Baru di 5.2 — Salat berikutnya dimulai di sini."><br><sub><b>Baru di 5.2</b> — Salat berikutnya dimulai di sini.</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/id/05-checkin.jpg" alt="Jendela yang lembut menanyakan apakah Anda sudah shalat."><br><sub>Jendela yang lembut menanyakan apakah Anda sudah shalat.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/id/02-adhan-hero.jpg" alt="230 rekaman adzan dari 28 negara."><br><sub>230 rekaman adzan dari 28 negara.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/id/store-01.jpg" alt="Tak ada salat terlewat saat bekerja."><br><sub>Tak ada salat terlewat saat bekerja.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/id/store-02.jpg" alt="Selalu tahu sisa waktunya."><br><sub>Selalu tahu sisa waktunya.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/id/store-03.jpg" alt="Salat tepat waktu, setiap hari."><br><sub>Salat tepat waktu, setiap hari.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/id/store-04.jpg" alt="Sedang bepergian? Qasar jadi mudah."><br><sub>Sedang bepergian? Qasar jadi mudah.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/id/store-05.jpg" alt="Jangan lewatkan zikir Anda."><br><sub>Jangan lewatkan zikir Anda.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/id/store-06.jpg" alt="Puasa sunah, tepat waktu."><br><sub>Puasa sunah, tepat waktu.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/id/store-07.jpg" alt="230 azan dari 28 negara."><br><sub>230 azan dari 28 negara.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/id/store-08.jpg" alt="Wirid harian, di satu tempat."><br><sub>Wirid harian, di satu tempat.</sub></td>
 </tr>
 </table>
 

@@ -58,12 +58,24 @@
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/07-menubar.jpg" alt="4.9 میں نیا — مینو بار کے چودہ انداز جو اذان، اقامت اور ابھی تک درج نہ ہونے والی نماز دکھاتے ہیں۔"><br><sub><b>4.9 میں نیا</b> — مینو بار کے چودہ انداز جو اذان، اقامت اور ابھی تک درج نہ ہونے والی نماز دکھاتے ہیں۔</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/03-themes.jpg" alt="چھ نمایاں رنگ، روشن اور تاریک دونوں میں۔"><br><sub>چھ نمایاں رنگ، روشن اور تاریک دونوں میں۔</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-09.jpg" alt="5.2 میں نیا — خوبصورت آسمان، آپ کے میک پر ہلکا۔"><br><sub><b>5.2 میں نیا</b> — خوبصورت آسمان، آپ کے میک پر ہلکا۔</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-10.jpg" alt="5.2 میں نیا — آپ کی اگلی نماز یہیں سے شروع ہوتی ہے۔"><br><sub><b>5.2 میں نیا</b> — آپ کی اگلی نماز یہیں سے شروع ہوتی ہے۔</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/05-checkin.jpg" alt="ایک نرم سی ونڈو پوچھتی ہے کہ کیا آپ نے نماز پڑھ لی۔"><br><sub>ایک نرم سی ونڈو پوچھتی ہے کہ کیا آپ نے نماز پڑھ لی۔</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/02-adhan-hero.jpg" alt="28 ممالک سے اذان کی 230 ریکارڈنگز۔"><br><sub>28 ممالک سے اذان کی 230 ریکارڈنگز۔</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-01.jpg" alt="کام کرتے ہوئے کوئی نماز نہ چھوٹے۔"><br><sub>کام کرتے ہوئے کوئی نماز نہ چھوٹے۔</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-02.jpg" alt="ہمیشہ جانیں کہ کتنا وقت باقی ہے۔"><br><sub>ہمیشہ جانیں کہ کتنا وقت باقی ہے۔</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/en/store-03.jpg" alt="ہر روز، نماز وقت پر۔"><br><sub>ہر روز، نماز وقت پر۔</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-04.jpg" alt="سفر میں ہیں؟ قصر اب آسان۔"><br><sub>سفر میں ہیں؟ قصر اب آسان۔</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/en/store-05.jpg" alt="اپنے اذکار کبھی نہ چھوڑیں۔"><br><sub>اپنے اذکار کبھی نہ چھوڑیں۔</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-06.jpg" alt="نفلی روزے، بالکل وقت پر۔"><br><sub>نفلی روزے، بالکل وقت پر۔</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/en/store-07.jpg" alt="28 ممالک سے 230 اذانیں۔"><br><sub>28 ممالک سے 230 اذانیں۔</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-08.jpg" alt="آپ کا روزانہ کا وِرد، ایک ہی جگہ۔"><br><sub>آپ کا روزانہ کا وِرد، ایک ہی جگہ۔</sub></td>
 </tr>
 </table>
 

@@ -58,12 +58,24 @@
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/07-menubar.jpg" alt="New in 4.9 — fourteen menu bar styles that show the adhan, the iqamah and a prayer still waiting."><br><sub><b>New in 4.9</b> — fourteen menu bar styles that show the adhan, the iqamah and a prayer still waiting.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/03-themes.jpg" alt="Six accent colours, in light and dark."><br><sub>Six accent colours, in light and dark.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-09.jpg" alt="New in 5.2 — Beautiful skies, light on your Mac."><br><sub><b>New in 5.2</b> — Beautiful skies, light on your Mac.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-10.jpg" alt="New in 5.2 — Your next prayer starts here."><br><sub><b>New in 5.2</b> — Your next prayer starts here.</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/05-checkin.jpg" alt="A gentle check-in asks whether you have prayed."><br><sub>A gentle check-in asks whether you have prayed.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/02-adhan-hero.jpg" alt="230 adhan recordings from 28 countries."><br><sub>230 adhan recordings from 28 countries.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-01.jpg" alt="Never miss a prayer while you work."><br><sub>Never miss a prayer while you work.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-02.jpg" alt="Always know how long is left."><br><sub>Always know how long is left.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/en/store-03.jpg" alt="Pray on time, every day."><br><sub>Pray on time, every day.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-04.jpg" alt="Travelling? Qasr made simple."><br><sub>Travelling? Qasr made simple.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/en/store-05.jpg" alt="Never skip your adhkar."><br><sub>Never skip your adhkar.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-06.jpg" alt="Sunnah fasts, right on time."><br><sub>Sunnah fasts, right on time.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/en/store-07.jpg" alt="230 adhans from 28 countries."><br><sub>230 adhans from 28 countries.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-08.jpg" alt="Your daily wird, in one place."><br><sub>Your daily wird, in one place.</sub></td>
 </tr>
 </table>
 
