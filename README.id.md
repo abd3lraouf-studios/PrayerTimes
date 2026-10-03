@@ -163,6 +163,8 @@ Untuk menampilkan nama kota alih-alih koordinat mentah, aplikasi membulatkan pos
 
 Menjeda media selama azan bersifat opsional. Saat Anda mengizinkannya di Privasi & Keamanan → Otomatisasi, aplikasi hanya menanyakan kepada Music, TV, atau Spotify — yang sudah berjalan saja — apakah sedang memutar, lalu meminta jeda dan putar lagi, tidak lebih. Mode perjalanan menyimpan rumah dan lokasi Anda saat ini di Mac ini; keduanya tidak disinkronkan atau dikirim. Mencari jeda untuk setiap shalat di antara rapat membaca kalender Anda di Mac ini, dan hanya setelah Anda mengizinkannya; acara di kalender Anda tidak pernah meninggalkan Mac.
 
+**Kontak.** PrayerTimes Pro dibuat oleh abd3lraouf, LLC. Untuk pertanyaan tentang privasi atau data Anda, kirim email ke [support@abd3lraouf.dev](mailto:support@abd3lraouf.dev) atau telepon [+1 (917) 920-5169](tel:+19179205169).
+
 ## Yang bisa Anda lakukan di sini
 
 - 🐛 [**Issue**](https://github.com/abd3lraouf-studios/PrayerTimes/issues) — laporkan bug atau minta fitur, atau [buat issue baru](https://github.com/abd3lraouf-studios/PrayerTimes/issues/new/choose).

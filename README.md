@@ -163,6 +163,8 @@ To show a city name rather than raw coordinates, the app rounds your position to
 
 Pausing media during the adhan is optional. When you allow it under Privacy & Security → Automation, the app asks Music, TV or Spotify — only one that is already running — whether it is playing, to pause and to play again, and nothing else. Travel mode keeps your home and where you are on this Mac; neither is synced or sent. Finding a break for each prayer between meetings reads your calendar on this Mac, and only once you allow it; your events never leave the Mac.
 
+**Contact.** PrayerTimes Pro is made by abd3lraouf, LLC. For questions about privacy or your data, email [support@abd3lraouf.dev](mailto:support@abd3lraouf.dev) or call [+1 (917) 920-5169](tel:+19179205169).
+
 ## What you can do here
 
 - 🐛 [**Issues**](https://github.com/abd3lraouf-studios/PrayerTimes/issues) — report a bug or request a feature, or [create a new one](https://github.com/abd3lraouf-studios/PrayerTimes/issues/new/choose).
