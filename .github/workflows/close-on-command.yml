@@ -1,52 +1,134 @@
-# A maintainer closes an issue from inside their reply: put `/close` on a line of its own.
+# A maintainer marks an issue for closing from inside their reply, with a line of its own:
 #
-#   /close              -> closed as completed
-#   /close not-planned  -> closed as not planned
-#   /close duplicate    -> closed as a duplicate
+#   /close              -> closes as completed 3 days later, unless someone else replies first
+#   /close not-planned  -> same, closed as not planned
+#   /close duplicate    -> same, closed as a duplicate
+#   /close now [reason] -> closes at once
 #
-# The command line is removed from the comment afterwards, so readers see only the reply.
-# Only the repo's owners, org members and collaborators can trigger it.
+# The command line is removed from the comment and replaced by a short note saying when the
+# issue will close. A reply from anyone who is not a maintainer cancels the countdown (the
+# `closing-soon` label comes off); mark it again with another `/close` if it is still done.
+# Only the repo's owners, org members and collaborators can mark an issue.
 name: Close on command
 
 on:
   issue_comment:
     types: [created]
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Override the waiting period (days) for this sweep — 0 closes every marked issue now"
+        required: false
 
 permissions:
   issues: write
 
+env:
+  DAYS: "3"
+  LABEL: closing-soon
+
 jobs:
-  close:
-    if: >-
-      !github.event.issue.pull_request &&
-      github.event.issue.state == 'open' &&
-      contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.comment.author_association) &&
-      contains(github.event.comment.body, '/close')
+  command:
+    if: github.event_name == 'issue_comment' && !github.event.issue.pull_request && github.event.issue.state == 'open'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/github-script@v7
         with:
           script: |
-            const command = /^[ \t]*\/close(?:[ \t]+(not-planned|duplicate))?[ \t]*$/mi;
-            const body = context.payload.comment.body;
-            const match = body.match(command);
-            if (!match) {
-              core.info('No /close line in the comment; nothing to do.');
+            const MAINTAINERS = ['OWNER', 'MEMBER', 'COLLABORATOR'];
+            const days = Number(process.env.DAYS);
+            const label = process.env.LABEL;
+            const comment = context.payload.comment;
+            const issue = context.payload.issue;
+            const isMaintainer = MAINTAINERS.includes(comment.author_association);
+            const isBot = comment.user.type === 'Bot';
+            const hasLabel = issue.labels.some(l => l.name === label);
+
+            // Someone else answered: they are still talking, so the countdown stops.
+            if (!isMaintainer) {
+              if (hasLabel && !isBot) {
+                await github.rest.issues.removeLabel({ ...context.repo, issue_number: issue.number, name: label });
+                core.info(`Reply from @${comment.user.login}; countdown on #${issue.number} cancelled.`);
+              }
               return;
             }
-            const reason = match[1] ? match[1].toLowerCase().replace('-', '_') : 'completed';
 
-            const reply = body.replace(command, '').trimEnd();
-            if (reply) {
-              await github.rest.issues.updateComment({ ...context.repo, comment_id: context.payload.comment.id, body: reply });
-            } else {
-              await github.rest.issues.deleteComment({ ...context.repo, comment_id: context.payload.comment.id });
+            const command = /^[ \t]*\/close(?:[ \t]+(now))?(?:[ \t]+(not-planned|duplicate))?[ \t]*$/mi;
+            const match = comment.body.match(command);
+            if (!match) return;
+            const now = Boolean(match[1]);
+            const reason = match[2] ? match[2].replace('-', '_') : 'completed';
+            const reply = comment.body.replace(command, '').trimEnd();
+
+            if (now) {
+              if (reply) {
+                await github.rest.issues.updateComment({ ...context.repo, comment_id: comment.id, body: reply });
+              } else {
+                await github.rest.issues.deleteComment({ ...context.repo, comment_id: comment.id });
+              }
+              await github.rest.issues.update({ ...context.repo, issue_number: issue.number, state: 'closed', state_reason: reason });
+              if (hasLabel) await github.rest.issues.removeLabel({ ...context.repo, issue_number: issue.number, name: label }).catch(() => {});
+              core.info(`Closed #${issue.number} now as ${reason}.`);
+              return;
             }
 
-            await github.rest.issues.update({
-              ...context.repo,
-              issue_number: context.issue.number,
-              state: 'closed',
-              state_reason: reason,
-            });
-            core.info(`Closed #${context.issue.number} as ${reason}.`);
+            const note = `<sub>This issue will close automatically in ${days} days if there are no further replies.</sub>`;
+            const body = [reply, note, `<!-- autoclose:${reason} -->`].filter(Boolean).join('\n\n');
+            await github.rest.issues.updateComment({ ...context.repo, comment_id: comment.id, body });
+
+            await github.rest.issues.createLabel({ ...context.repo, name: label, color: 'c5def5',
+              description: 'Closes automatically unless someone replies' }).catch(() => {});
+            await github.rest.issues.addLabels({ ...context.repo, issue_number: issue.number, labels: [label] });
+            core.info(`#${issue.number} marked; closes as ${reason} in ${days} days unless someone replies.`);
+
+  sweep:
+    if: github.event_name != 'issue_comment'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        env:
+          DAYS_OVERRIDE: ${{ inputs.days }}
+        with:
+          script: |
+            const MAINTAINERS = ['OWNER', 'MEMBER', 'COLLABORATOR'];
+            const label = process.env.LABEL;
+            const override = process.env.DAYS_OVERRIDE;
+            const days = override !== undefined && override !== '' ? Number(override) : Number(process.env.DAYS);
+            const marker = /<!-- autoclose:(completed|not_planned|duplicate) -->/;
+
+            const issues = await github.paginate(github.rest.issues.listForRepo,
+              { ...context.repo, state: 'open', labels: label, per_page: 100 });
+
+            for (const issue of issues) {
+              if (issue.pull_request) continue;
+              const comments = await github.paginate(github.rest.issues.listComments,
+                { ...context.repo, issue_number: issue.number, per_page: 100 });
+
+              const marked = [...comments].reverse().find(c => marker.test(c.body || ''));
+              if (!marked) {
+                core.info(`#${issue.number}: labelled but no marked reply; leaving it.`);
+                continue;
+              }
+
+              const answered = comments.some(c =>
+                new Date(c.created_at) > new Date(marked.created_at) &&
+                !MAINTAINERS.includes(c.author_association) && c.user.type !== 'Bot');
+              if (answered) {
+                await github.rest.issues.removeLabel({ ...context.repo, issue_number: issue.number, name: label });
+                core.info(`#${issue.number}: someone replied after the mark; countdown cancelled.`);
+                continue;
+              }
+
+              const ageDays = (Date.now() - new Date(marked.created_at)) / 86400000;
+              if (ageDays < days) {
+                core.info(`#${issue.number}: ${ageDays.toFixed(1)} of ${days} days; waiting.`);
+                continue;
+              }
+
+              const reason = marked.body.match(marker)[1];
+              await github.rest.issues.update({ ...context.repo, issue_number: issue.number, state: 'closed', state_reason: reason });
+              await github.rest.issues.removeLabel({ ...context.repo, issue_number: issue.number, name: label }).catch(() => {});
+              core.info(`#${issue.number}: closed as ${reason} after ${ageDays.toFixed(1)} days.`);
+            }
