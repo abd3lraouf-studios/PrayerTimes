@@ -371,6 +371,21 @@
       length="102235385"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 5.3.1</title>
+    <sparkle:version>105</sparkle:version>
+    <sparkle:shortVersionString>5.3.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 04 Oct 2026 06:08:52 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Official reference points (#9).</strong> An authority that publishes one timetable per city or zone is matched at its own point (`Vendor/AdhanSwift/Sources/Astronomy/ReferencePoints/`, `CalculationParameters.referencePointPolicy`, default `.official`). Umm al-Qura: inside Saudi Arabia, KACST's child city for the place the app shows (a point of that name within 60 km, `referencePointHint`), else KACST's own `findClosestCity` over its 173 child cities; measured at 100 % against KACST at all 173 cities × 2016, 2020, 2026, 2031 and a seeded GPS cloud around them (`compare.py --kacst-cities`, `--gps-cloud`, `--kacst-selection`). Qatar, Kuwait, the UAE, Singapore, Moscow, Morocco, Jordan and Tunisia moved onto the same rule with identical results. Settings ▸ Location ▸ <strong>Match official timetable</strong> (on) — off computes at the exact location; the hero names the point ("Riyadh · official times"); Methods &amp; Sources gains a "Where" line.</li><li><strong>The status item's identity (#9).</strong> Its accessibility title was the live countdown, so macOS 27's MenuBarAgent and Pelmet (`status:<bundle>::<AX title>`) saw a new item each minute and placed it as a new arrival. The title is now `PrayerTimesItem`; the countdown is the label and value (`StatusItemAccessibility`). Pelmet joins `MenuBarManagers`. `MenuBar.positionAcrossLaunch` reports whether the item's place moved since the last launch. Measured under Pelmet 0.3.0 on macOS 27.0.1 from `/Applications`: `matrix.sh --order` identity, relaunch and agent-restart PASS.</li><li><strong>Salawat:</strong> the banner's body follows the Reminder Voice's language like its title.</li><li><strong>Pills on inactive displays</strong> keep their font: macOS 27's replicant copies are drawn with vibrancy off and dimmed by opacity (`InactiveCopyStyle`).</li><li><strong>Gates.</strong> The engine package's tests run in CI (`test.yml` job `engine`, `test.sh`); preflight checks release claims against `docs/release-claims/`, issue references, the reference-point tests, the KACST table snapshot and the KACST parity modes at 100 %.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v5.3.1/PrayerTimes-5.3.1.zip"
+      sparkle:version="105"
+      sparkle:shortVersionString="5.3.1"
+      sparkle:edSignature="Nq19Fz/DAjQHsKxDcdOuzhh91e8/FKRbNtCfaxw0+cytXjAlqFJVeJzhKRymw654X2gfxTbJLfw/u0FZjjwpBw=="
+      length="102380124"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
