@@ -385,6 +385,21 @@
       length="102380124"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 5.4.0</title>
+    <sparkle:version>106</sparkle:version>
+    <sparkle:shortVersionString>5.4.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Thu, 08 Oct 2026 08:05:25 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Hijri month numbers (#12).</strong> A clear month count sits beneath the crescent in the calendar artwork; compact Hijri dates use “Ramadan · 9/12” without parentheses. The illuminated date card pairs a large day with fully vocalized Thuluth calligraphy, teal tashkeel and a restrained selection of the font’s traditional filling ornaments, a crescent-framed month count, decorative dividers, and a double gold-to-teal border. Its warm text glow repeats while the calendar is visible; Reduce Motion keeps the glow steady. In non-Arabic calendars, Arabic month names also appear by default; turn them off from the calendar's context menu or Settings ▸ Ramadan &amp; Calendar ▸ Hijri Calendar. The context menu also returns to today's month and opens Calendar settings.</li><li><strong>Version-aware welcome.</strong> New installs receive the full setup guide. Updates collect release highlights since the recorded baseline and select the relevant guide pages; interrupted setup and update tours resume their saved page. 5.4.0 introduces the calendar and Azkar changes in a two-page update tour, including the Tasbih shortcut. Explicit guide previews leave automatic progress untouched.</li><li><strong>Tasbih from another app.</strong> Refreshed counter artwork, compact layout and animated digits; a branded shortcut chooser reports conflicting combinations, and the counter supports display positions on the screen being used.</li><li><strong>Panel and settings polish.</strong> Procedural cloud reveal, revised scene lighting, shared button motion and clearer full-length dropdown options. The panel settles when dismissed instead of reopening on a tap during its closing transition; settings navigation and translated titles follow the selected language.</li><li><strong>Sound controls.</strong> Animation sounds have their own controls. Custom notification sounds respect the channel's mute toggle.</li><li><strong>Development tools.</strong> The integrated onboarding tester uses disposable history, editable versions and 28 scenario checks across the two distribution catalogues. Its interrupted-update preset remains valid when the newest release introduces guide pages. Developer tools have dedicated menus and a separate Debug settings page.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v5.4.0/PrayerTimes-5.4.0.zip"
+      sparkle:version="106"
+      sparkle:shortVersionString="5.4.0"
+      sparkle:edSignature="fkJ2BE9G4SfBUTzo8u2w2v2/eopu/PXru5KuekodPmlOnJELJ2GN54bWjpbcz9OhGMqWUIgj7HDI/xaBNmRtBA=="
+      length="104143619"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
