@@ -399,6 +399,21 @@
       length="104143619"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 5.5.0</title>
+    <sparkle:version>107</sparkle:version>
+    <sparkle:shortVersionString>5.5.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Sun, 11 Oct 2026 01:52:01 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Fasting and Friday.</strong> The fasting and Friday cards are separate, each with its own switch. Sunnah fasts are planned by tapping a day in the Hijri calendar (several intentions at once, pruned once past); make-up fasts are counted (`Observance.fastMakeUp`, `QadaState.fastsOwed`). Friday settings choose the hour of response and when al-Kahf's reminder comes. The Sunnah checklist is rewritten around each practice's window, Qiyam included. `PrayerDayRecord` writes newer practice values under separate keys so an older build on the same iCloud log keeps decoding it.</li><li><strong>Home is yours to arrange.</strong> Each Home element apart from the hero and the five prayers has a close button on hover that turns off its own Settings switch and leaves a hint with Undo. New switches for Daily practice, the prayer status banner and the travel card; closing the travel card leaves Travel Mode on.</li><li><strong>Prayer alerts.</strong> On fresh installs the before-prayer moment is a banner and the Salawat reminder is hourly; existing installs keep their settings (migration step 10). Iftar keeps Maghrib's adhan. A prayer banner waits while its full-screen card is up and goes when the card is answered; banners rank prayer, then devotion, then Salawat. Banner, card and check-in share I prayed / Remind me / Dismiss, and a snooze lands before the prayer starts. The check-in gains Not today. The card is held while another app is in full screen or presenting, and while a Focus whose filter turns on "Show prayer alerts as banners" is active. A call holds the check-in and the spoken Salawat. The full-screen card takes the keyboard without switching apps. The adhan chip shows when it is muted and keeps ⌘. for its first 30 seconds.</li><li><strong>Panel and keyboard.</strong> Escape goes back one screen and closes the panel from Home. More opens on click. Paywall entry points share one path, and its failures show inline. Calendar days take the arrow keys (mirrored in right-to-left languages); Sunnah rows, dropdowns and map results take the keyboard. Reset and Make This Home ask for a second click.</li><li><strong>Hover and shared pieces.</strong> Buttons, rows and switches in the menu-bar panel show a hover state, close buttons share one control, and the share card's choices fit in Arabic, Farsi and Urdu, with X and Reddit logos. Progress rings fill clockwise in right-to-left languages; the map search accepts Arabic typing; one spinner replaces the system ones. VoiceOver announces toasts, hints and arriving alerts.</li><li><strong>Ambient Display.</strong> Its clock and countdown digits roll like the full-screen countdown's; Reduce Motion snaps them.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v5.5.0/PrayerTimes-5.5.0.zip"
+      sparkle:version="107"
+      sparkle:shortVersionString="5.5.0"
+      sparkle:edSignature="EKFW/vJFw/T/6Ik3frvHmO7XxpIpkHvpIFItnXWWKeJxYX46iPxNOa1ZuwgQOOkLcfGgnxi+ncqNkK5myCqxBw=="
+      length="104566387"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
