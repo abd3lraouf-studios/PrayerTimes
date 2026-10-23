@@ -441,6 +441,21 @@
       length="112376299"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 5.8.0</title>
+    <sparkle:version>110</sparkle:version>
+    <sparkle:shortVersionString>5.8.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Fri, 23 Oct 2026 08:24:30 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>The date on the full-screen card (#13).</strong> Settings ▸ Notifications ▸ Show Date: Off, Gregorian, Hijri or Both. The dates sit under the prayer's time with the weekday over them, one column per calendar, glowing in the prayer's colour. The Hijri date follows the chosen Hijri calendar and day correction, and on the Maghrib, Isha and Iftar cards it is the next day's, since the Islamic day begins at sunset. A ✕ that appears on hover hides the date from the card (and turns the setting off), with Undo for a few seconds. Ships off.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v5.8.0/PrayerTimes-5.8.0.zip"
+      sparkle:version="110"
+      sparkle:shortVersionString="5.8.0"
+      sparkle:edSignature="JFcx+2OgNVcAcFoPp8twtUeKwPIkYW0CNQcXQ2i/YkT8BYIMPTAu8ApkgsVvnMlsdrcXSDe371s48mK36TWVBQ=="
+      length="112424787"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
