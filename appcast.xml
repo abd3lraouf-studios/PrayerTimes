@@ -427,6 +427,21 @@
       length="111195494"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 5.7.0</title>
+    <sparkle:version>109</sparkle:version>
+    <sparkle:shortVersionString>5.7.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Fri, 23 Oct 2026 03:50:51 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Azkar &amp; Awrad, redesigned.</strong> Flat surfaces, one accent for actions, counts written "N of M". The shared pieces are `Shared/AzkarDesignKit.swift` (buttons with hover, press and focus states, cards, groups, the completion ring, ⋯ menus on the app's own dropdown, the slim scroll bar, tabs that keep one label size).</li><li><strong>The reader.</strong> Sessions as a segmented row with the prayer pills below for after prayer, which opens on the prayer just prayed by the app's clock. Cards count on a tap, fade long text out with "Read full text", collapse to a title row once said, carry a Quran tag, a favourite and a ⋯ menu (copy, share, focus, translation, add to a routine), and show the source the catalog names. A four-second undo follows each count. The catalog's `*` ayah ends draw as ۝. A finished session shows its time, the week and the next session.</li><li><strong>Hisn al-Muslim</strong> is its own page: favourites first, counts written out, a chapter with its sources and previous/next, and search over chapter titles and the adhkar themselves that ignores diacritics and finds a Quran passage by its name.</li><li><strong>Focus mode.</strong> One dhikr, the counter pinned under the text, Space to count, auto-advance, text size, copy and share, ayah by ayah for a passage the text marks into ayahs; it pops out into the Azkar window.</li><li><strong>Share</strong> sends a designed card (name, the Arabic, source, translation, the app's attribution) with the text; right-click a card for its menu.</li><li><strong>The player</strong> is the one floating player again, with speed, repeat-one and a sleep timer.</li><li><strong>Awrad.</strong> One list with a ring per routine, inline counters, a weekly streak and a month view when the day is done; edit mode with drag to reorder and VoiceOver move actions; an add page of sized tiles; an edit page with a reminder per session routine; starters for an empty list. A <strong>khatma plan</strong> sets the daily pages by duration and shows today's pages as a row.</li><li><strong>Settings ▸ Azkar.</strong> A live text preview with its size slider; reminder times relative to the prayer, at sunrise or Maghrib, or at a clock time; downloads with a storage summary, pause and resume, measured time left, and one Premium header; the tasbih shortcut page with its keycaps and today's count.</li><li><strong>The tasbih HUD</strong> is redrawn in the app's palette; <strong>onboarding</strong> asks for a reciter, reminders and a starter routine on the first open; the menu-bar right-click menu lists today's awrad; the panel's ground takes a faint hue from the time of day.</li><li><strong>Capture tools</strong> restore preferences through cfprefsd, so a capture run keeps a setting the dev app had just written.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v5.7.0/PrayerTimes-5.7.0.zip"
+      sparkle:version="109"
+      sparkle:shortVersionString="5.7.0"
+      sparkle:edSignature="r+HRD1SlNBDA4elIkV8cPy20r9c6FfPCoTujD67I1jk6ZVrUfkXOVirRw+KIYAm4A04PnxZ0dTV6rlikCQQgCQ=="
+      length="112376299"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
