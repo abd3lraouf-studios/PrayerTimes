@@ -117,7 +117,7 @@ PrayerTimes Pro ships on two channels. Same app, same price — take whichever s
 ### Your practice
 
 - **Prayer log** — mark each prayer as you pray it, with a Fajr-anchored day rollover, streaks, and make-up (qada) tracking
-- **Prayer check-in** — a gentle window asks whether you have prayed, and asks again while the prayer is still open
+- **Prayer check-in** — a gentle window asks whether you have prayed: once after the prayer, and once more before its time ends
 - **Sunnah & Nawāfil** tracking alongside the five obligatory prayers
 - **Azkar** — morning, evening, after-prayer and bedtime adhkar and all of Hisn al-Muslim, counted as you go and recited aloud word by word; count tasbih from any app with a shortcut you choose
 - **Daily routines** — your adhkar, Quran pages and tasbih in one daily wird, with a player of its own

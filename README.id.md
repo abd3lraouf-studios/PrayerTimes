@@ -117,7 +117,7 @@ PrayerTimes Pro hadir lewat dua kanal. Aplikasi yang sama dengan harga yang sama
 ### Ibadah harian Anda
 
 - **Catatan shalat** — tandai setiap shalat saat Anda menunaikannya, dengan pergantian hari berpatokan Subuh, rentetan (streak), dan pelacakan qada
-- **Check-in shalat** — jendela yang lembut menanyakan apakah Anda sudah shalat, dan bertanya lagi selama waktu shalat masih ada
+- **Check-in shalat** — jendela yang lembut menanyakan apakah Anda sudah shalat: sekali setelah waktunya masuk, dan sekali lagi sebelum waktunya habis
 - **Sunnah & Nawafil** di samping lima shalat wajib
 - **Zikir** — zikir pagi, petang, setelah shalat, dan sebelum tidur, serta seluruh Hisnul Muslim, dihitung sambil berzikir dan dilantunkan kata demi kata; hitung tasbih dari aplikasi mana pun dengan pintasan pilihan Anda
 - **Wirid harian** — zikir, halaman Al-Qur'an, dan tasbih Anda dalam satu wirid harian, dengan pemutarnya sendiri
