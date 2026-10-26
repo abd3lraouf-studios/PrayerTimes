@@ -54,24 +54,24 @@
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/store-09.jpg" alt="تازه در ۵٫۲ — آسمان‌های زیبا، سبک برای مک شما."><br><sub><b>تازه در ۵٫۲</b> — آسمان‌های زیبا، سبک برای مک شما.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/store-10.jpg" alt="تازه در ۵٫۲ — نماز بعدی‌تان از این‌جا شروع می‌شود."><br><sub><b>تازه در ۵٫۲</b> — نماز بعدی‌تان از این‌جا شروع می‌شود.</sub></td>
-</tr>
-<tr>
+<td width="50%" align="center"><img src="art/gallery/en/store-02.jpg" alt="تازه در ۶٫۰ — اعلان‌ها با طراحی تازه."><br><sub><b>تازه در ۶٫۰</b> — اعلان‌ها با طراحی تازه.</sub></td>
 <td width="50%" align="center"><img src="art/gallery/en/store-01.jpg" alt="هنگام کار، هیچ نمازی از دستتان نمی‌رود."><br><sub>هنگام کار، هیچ نمازی از دستتان نمی‌رود.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/store-02.jpg" alt="همیشه بدانید چقدر مانده است."><br><sub>همیشه بدانید چقدر مانده است.</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/store-03.jpg" alt="نماز به‌وقت، هر روز."><br><sub>نماز به‌وقت، هر روز.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/store-04.jpg" alt="در سفرید؟ نماز قصر آسان شد."><br><sub>در سفرید؟ نماز قصر آسان شد.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-03.jpg" alt="همیشه بدانید چقدر مانده است."><br><sub>همیشه بدانید چقدر مانده است.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-04.jpg" alt="نماز به‌وقت، هر روز."><br><sub>نماز به‌وقت، هر روز.</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/store-05.jpg" alt="اذکارتان را هرگز جا نیندازید."><br><sub>اذکارتان را هرگز جا نیندازید.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/store-06.jpg" alt="روزه‌های مستحب، درست به‌موقع."><br><sub>روزه‌های مستحب، درست به‌موقع.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-05.jpg" alt="در سفرید؟ نماز قصر آسان شد."><br><sub>در سفرید؟ نماز قصر آسان شد.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-06.jpg" alt="اذکارتان را هرگز جا نیندازید."><br><sub>اذکارتان را هرگز جا نیندازید.</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/store-07.jpg" alt="۲۳۰ اذان از ۲۸ کشور."><br><sub>۲۳۰ اذان از ۲۸ کشور.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/store-08.jpg" alt="وِرد روزانه‌تان، در یک جا."><br><sub>وِرد روزانه‌تان، در یک جا.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-07.jpg" alt="روزه‌های مستحب، درست به‌موقع."><br><sub>روزه‌های مستحب، درست به‌موقع.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-08.jpg" alt="۲۳۰ اذان از ۲۸ کشور."><br><sub>۲۳۰ اذان از ۲۸ کشور.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/en/store-09.jpg" alt="وِرد روزانه‌تان، در یک جا."><br><sub>وِرد روزانه‌تان، در یک جا.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-10.jpg" alt="نماز بعدی‌تان از این‌جا شروع می‌شود."><br><sub>نماز بعدی‌تان از این‌جا شروع می‌شود.</sub></td>
 </tr>
 </table>
 

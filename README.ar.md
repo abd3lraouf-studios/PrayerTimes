@@ -54,24 +54,24 @@
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/ar/store-09.jpg" alt="جديد في 5.2 — سماوات جميلة، أخف على جهازك."><br><sub><b>جديد في 5.2</b> — سماوات جميلة، أخف على جهازك.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/ar/store-10.jpg" alt="جديد في 5.2 — صلاتك القادمة تبدأ من هنا."><br><sub><b>جديد في 5.2</b> — صلاتك القادمة تبدأ من هنا.</sub></td>
-</tr>
-<tr>
+<td width="50%" align="center"><img src="art/gallery/ar/store-02.jpg" alt="جديد في 6.0 — الإشعارات بتصميم جديد."><br><sub><b>جديد في 6.0</b> — الإشعارات بتصميم جديد.</sub></td>
 <td width="50%" align="center"><img src="art/gallery/ar/store-01.jpg" alt="لا تفوتك صلاة وأنت تعمل."><br><sub>لا تفوتك صلاة وأنت تعمل.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/ar/store-02.jpg" alt="اعرف دائمًا كم بقي للصلاة."><br><sub>اعرف دائمًا كم بقي للصلاة.</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/ar/store-03.jpg" alt="صلِّ في وقتها، كل يوم."><br><sub>صلِّ في وقتها، كل يوم.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/ar/store-04.jpg" alt="مسافر؟ القصر والجمع أسهل."><br><sub>مسافر؟ القصر والجمع أسهل.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/ar/store-03.jpg" alt="اعرف دائمًا كم بقي للصلاة."><br><sub>اعرف دائمًا كم بقي للصلاة.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/ar/store-04.jpg" alt="صلِّ في وقتها، كل يوم."><br><sub>صلِّ في وقتها، كل يوم.</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/ar/store-05.jpg" alt="لا تنسَ أذكارك."><br><sub>لا تنسَ أذكارك.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/ar/store-06.jpg" alt="صيام التطوع، في موعده."><br><sub>صيام التطوع، في موعده.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/ar/store-05.jpg" alt="مسافر؟ القصر والجمع أسهل."><br><sub>مسافر؟ القصر والجمع أسهل.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/ar/store-06.jpg" alt="لا تنسَ أذكارك."><br><sub>لا تنسَ أذكارك.</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/ar/store-07.jpg" alt="230 أذانًا من 28 دولة."><br><sub>230 أذانًا من 28 دولة.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/ar/store-08.jpg" alt="وردك اليومي، في مكان واحد."><br><sub>وردك اليومي، في مكان واحد.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/ar/store-07.jpg" alt="صيام التطوع، في موعده."><br><sub>صيام التطوع، في موعده.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/ar/store-08.jpg" alt="230 أذانًا من 28 دولة."><br><sub>230 أذانًا من 28 دولة.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/ar/store-09.jpg" alt="وردك اليومي، في مكان واحد."><br><sub>وردك اليومي، في مكان واحد.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/ar/store-10.jpg" alt="صلاتك القادمة تبدأ من هنا."><br><sub>صلاتك القادمة تبدأ من هنا.</sub></td>
 </tr>
 </table>
 

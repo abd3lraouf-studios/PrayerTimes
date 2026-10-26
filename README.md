@@ -54,24 +54,24 @@
 
 <table>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/store-09.jpg" alt="New in 5.2 — Beautiful skies, light on your Mac."><br><sub><b>New in 5.2</b> — Beautiful skies, light on your Mac.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/store-10.jpg" alt="New in 5.2 — Your next prayer starts here."><br><sub><b>New in 5.2</b> — Your next prayer starts here.</sub></td>
-</tr>
-<tr>
+<td width="50%" align="center"><img src="art/gallery/en/store-02.jpg" alt="New in 6.0 — Notifications, redesigned."><br><sub><b>New in 6.0</b> — Notifications, redesigned.</sub></td>
 <td width="50%" align="center"><img src="art/gallery/en/store-01.jpg" alt="Never miss a prayer while you work."><br><sub>Never miss a prayer while you work.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/store-02.jpg" alt="Always know how long is left."><br><sub>Always know how long is left.</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/store-03.jpg" alt="Pray on time, every day."><br><sub>Pray on time, every day.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/store-04.jpg" alt="Travelling? Qasr made simple."><br><sub>Travelling? Qasr made simple.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-03.jpg" alt="Always know how long is left."><br><sub>Always know how long is left.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-04.jpg" alt="Pray on time, every day."><br><sub>Pray on time, every day.</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/store-05.jpg" alt="Never skip your adhkar."><br><sub>Never skip your adhkar.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/store-06.jpg" alt="Sunnah fasts, right on time."><br><sub>Sunnah fasts, right on time.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-05.jpg" alt="Travelling? Qasr made simple."><br><sub>Travelling? Qasr made simple.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-06.jpg" alt="Never skip your adhkar."><br><sub>Never skip your adhkar.</sub></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img src="art/gallery/en/store-07.jpg" alt="230 adhans from 28 countries."><br><sub>230 adhans from 28 countries.</sub></td>
-<td width="50%" align="center"><img src="art/gallery/en/store-08.jpg" alt="Your daily wird, in one place."><br><sub>Your daily wird, in one place.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-07.jpg" alt="Sunnah fasts, right on time."><br><sub>Sunnah fasts, right on time.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-08.jpg" alt="230 adhans from 28 countries."><br><sub>230 adhans from 28 countries.</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="art/gallery/en/store-09.jpg" alt="Your daily wird, in one place."><br><sub>Your daily wird, in one place.</sub></td>
+<td width="50%" align="center"><img src="art/gallery/en/store-10.jpg" alt="Your next prayer starts here."><br><sub>Your next prayer starts here.</sub></td>
 </tr>
 </table>
 
