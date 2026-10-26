@@ -455,6 +455,21 @@
       length="112424787"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 6.0.0</title>
+    <sparkle:version>111</sparkle:version>
+    <sparkle:shortVersionString>6.0.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Mon, 26 Oct 2026 12:03:17 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Notifications, redesigned.</strong> Banners, the prayer check-in and the call chip share one look. Colour names the family (prayer in your accent, fasting amber, Friday teal, dhikr violet, the rest grey), and an eyebrow above the title says what it is and when ("Prayer · in 10 min · 3:23 PM", "Ramadan · imsak at 4:34 AM", "Travelling · 84 km from home"). Prayer reminders carry their prayer's painted sky; the others the family's glyph. Titles are 15pt, bodies 13pt. One row of at most three answers, the primary on the trailing end.</li><li><strong>Later replaces the snooze pills</strong>, on the banner and on the full-screen card. The word snoozes for the Remind Me In time; the chevron lists the times with when each lands, and at the prayer the times past the iqamah stay in the list, greyed. On a banner ⌘L opens it, 1–5 picks a time and ⌘↩ answers I prayed.</li><li><strong>Answers in place.</strong> Applying, a failed action with Retry, "Asr is recorded." and "Reminder set" appear inside the banner that was answered. A thin line along the foot counts down a banner that closes by itself; hover pauses it. A heavier banner arriving over a lighter one leaves an 8pt edge of the lighter one showing, and the lighter one comes back when the heavier one closes. On hover a ✕ is carved into the top-left corner and Settings into the top-right.</li><li><strong>Smoke in, smoke out.</strong> Banners, the check-in and the chip condense out of a blur as they arrive and disperse upward as they leave; Reduce Motion makes it a plain fade.</li><li><strong>The check-in asks twice at most</strong>: after the prayer and once more ten minutes before its time ends. The repeat interval is gone from Settings, and so is the pulse. The card is narrower, its type larger, and its footer says whether it will ask again.</li><li><strong>The call chip</strong> shows the prayer's sky behind the wave, the reciter, ⌘. to stop, and a muted state that says the call is still playing.</li><li><strong>The Hijri date shows on the full-screen card by default.</strong> A user who turned the date off keeps it off.</li><li><strong>Travel</strong> asks its question in the banner's title with an Answer button; <strong>I fasted</strong> confirms in the banner.</li><li><strong>Five new languages: Türkçe, Bahasa Melayu, Français, Русский and বাংলা</strong>, beside English, العربية, Bahasa Indonesia, فارسی and اردو. Each carries the whole interface, its own plural rules, the permission prompts, the Siri phrases and the What's New sheet. Prayer names follow each community's usage (Diyanet's İmsak, Öğle, İkindi, Akşam, Yatsı; JAKIM's Subuh, Zohor, Asar, Maghrib, Isyak; Фаджр, Зухр; ফজর, যোহর). Pickers name each language only in itself. Onboarding lays the ten out as two rows of five.</li><li><strong>Bengali shows Western digits</strong> in times and dates, as the app has no switch for Bengali numerals (`LanguageManager.interfaceLocale`).</li><li><strong>App Store listings</strong> in Turkish, Malay, French and Russian, and the paid tier is called Premium in the listings and the highlights, as it is in the app.</li><li><strong>Debug.</strong> Debug ▸ Notification Gallery draws each surface and state on one page; `scripts/capture-notifications.py` photographs them (`--lang`, `--material glass`).</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v6.0.0/PrayerTimes-6.0.0.zip"
+      sparkle:version="111"
+      sparkle:shortVersionString="6.0.0"
+      sparkle:edSignature="EZIHuwAh7Hb3EI5DfHRjOtBqdQIJs8GKs7yDKHv1q4EaKO9pAdR2iCzEC2UVuiLQo6xk5WQDsatkUNX06ZnPAw=="
+      length="113678206"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
