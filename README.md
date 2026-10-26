@@ -11,7 +11,7 @@
 
 <p align="center">
     <strong>A minimalist, privacy-first Islamic prayer times app for your Mac's menu bar.</strong><br>
-    Offline prayer-time calculation · 26 methods · 5 languages · Apple Silicon & Intel
+    Offline prayer-time calculation · 26 methods · 10 languages · Apple Silicon & Intel
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ PrayerTimes Pro ships on two channels. Same app, same price — take whichever s
 - **Settings that find themselves** — a sidebar window with search across every pane
 - **iCloud sync** — your prayer log and preferences follow you between Macs, with an export and a year in review
 - **Siri, Shortcuts and Focus** — Shortcuts actions, and a Focus that quiets reminders
-- **5 languages**: English, العربية, Bahasa Indonesia, فارسی, اردو — with full RTL support
+- **10 languages**: English, العربية, Bahasa Indonesia, فارسی, اردو, Türkçe, Bahasa Melayu, Français, Русский, বাংলা — with full RTL support
 - **Locale-aware numerals** (Arabic-Indic, Extended Arabic-Indic, Western)
 - **Accessible** — Dynamic Type, Increase Contrast and Reduce Motion respected app-wide
 
@@ -188,7 +188,7 @@ Every contribution — no matter how small — helps keep the app actively devel
 <!-- BEGIN abd3lraouf-studios:press -->
 ## Press & marketing assets
 
-PrayerTimes Pro keeps accurate prayer times a glance away in the macOS menu bar, with twenty-six calculation methods, five languages and a prayer log, computed on the Mac itself. It is free as a direct download and on the Mac App Store, and a one-time Pro unlock adds the living sky, every adhan reciter, and streaks and qada.
+PrayerTimes Pro keeps accurate prayer times a glance away in the macOS menu bar, with twenty-six calculation methods, ten languages and a prayer log, computed on the Mac itself. It is free as a direct download and on the Mac App Store, and a one-time Pro unlock adds the living sky, every adhan reciter, and streaks and qada.
 
 **Naming.** Written "PrayerTimes Pro" — one word for the product name, capital P and T, with "Pro" as a separate word. Never "Prayer Times" or "Prayertimes".
 

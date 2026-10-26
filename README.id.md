@@ -11,7 +11,7 @@
 
 <p align="center">
     <strong>Aplikasi waktu shalat minimalis yang mengutamakan privasi, tinggal di menu bar Mac Anda.</strong><br>
-    Perhitungan waktu salat offline · 26 metode · 5 bahasa · Apple Silicon & Intel
+    Perhitungan waktu salat offline · 26 metode · 10 bahasa · Apple Silicon & Intel
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ PrayerTimes Pro hadir lewat dua kanal. Aplikasi yang sama dengan harga yang sama
 - **Pengaturan yang mudah ditemukan** — jendela bersidebar dengan pencarian lintas panel
 - **Sinkronisasi iCloud** — catatan shalat dan preferensi Anda mengikuti antar-Mac, dengan ekspor dan tinjauan setahun
 - **Siri, Pintasan, dan Fokus** — aksi Pintasan, dan Fokus yang menyenyapkan pengingat
-- **5 bahasa**: English, العربية, Bahasa Indonesia, فارسی, اردو — dengan dukungan RTL penuh
+- **10 bahasa**: English, العربية, Bahasa Indonesia, فارسی, اردو, Türkçe, Bahasa Melayu, Français, Русский, বাংলা — dengan dukungan RTL penuh
 - **Numeral sesuai lokal** (Arab-Indic, Arab-Indic Diperluas, Barat)
 - **Aksesibilitas** — Dynamic Type, Increase Contrast, dan Reduce Motion dihormati di seluruh aplikasi
 
