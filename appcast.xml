@@ -469,6 +469,21 @@
       length="113678206"
       type="application/octet-stream" />
   </item>
+    <item>
+    <title>Version 6.0.1</title>
+    <sparkle:version>113</sparkle:version>
+    <sparkle:shortVersionString>6.0.1</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+    <pubDate>Wed, 28 Oct 2026 09:12:25 +0000</pubDate>
+    <description><![CDATA[<ul><li><strong>Later hovers by halves.</strong> The word and the chevron are two metal halves with a 2pt gap, round outside and 4pt inside, the same shape as the scene card's Select | Preview (`UnevenRoundedRectangle.splitHalf`). Each half used to hover as a whole capsule, which drew a second pill inside the button. The open menu's ring sits on the chevron half, and the menu is at least as wide as the control.</li><li><strong>Hover rims.</strong> `softControl`'s rim is a full point inside the edge; the clip used to leave half a point, a blurred hairline at 1×. Dismiss fades its face in and out on hover.</li><li><strong>Clouds over the photographed scenes.</strong> The GPU sky thinned its field after sorting it by depth, so it kept the other half of the clouds than the SpriteKit sky it stands in for: thin far veils where the dense near cumulus belonged. It now thins first and sorts after (`MetalSunLayer.photographedField`). The reference test measures 0.0024 against the SpriteKit picture (was 0.025), and its bound tightens from 0.025 to 0.01.</li><li><strong>Place names keep the reader's script.</strong> A geocoded name in a script the reader does not read keeps the name they picked (`LocationNameResolver.nameFits`).</li><li><strong>Settings in Français, Русский and Türkçe</strong> show their labels in full (the Premium gallery's tabs, the Quiet Hours dial, the search field, menu-bar style descriptions), and onboarding's panel image exists in each of the ten shipped languages, cut to the panel's shape.</li></ul>]]></description>
+    <enclosure url="https://github.com/abd3lraouf-studios/PrayerTimes/releases/download/v6.0.1/PrayerTimes-6.0.1.zip"
+      sparkle:version="113"
+      sparkle:shortVersionString="6.0.1"
+      sparkle:edSignature="6Ds/2vYaBhuVfR7eNzOqjOTYixk4a/H38DBEe3YhM5SkOgC88fW5yfuex9nM/yRNoBm1zMt4seBzfcxI/waiCw=="
+      length="114331096"
+      type="application/octet-stream" />
+  </item>
+
 
 
 
